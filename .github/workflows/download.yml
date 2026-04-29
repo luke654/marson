@@ -1,14 +1,14 @@
 name: Download feed giornaliero
-
 on:
   schedule:
-    - cron: '30 3 * * *'  # 4:30 ora italiana (UTC+1 inverno / aggiusta in estate)
-  workflow_dispatch:        # avvio manuale per testare
+    - cron: '30 3 * * *'
+  workflow_dispatch:
 
 jobs:
   download:
     runs-on: ubuntu-latest
-
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # fix deprecation warning
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -21,12 +21,12 @@ jobs:
       - name: Installa dipendenze
         run: pip install requests
 
-      - name: Scarica e decomprimi feed
+      - name: Scarica e converti feed in JSON
         run: python scripts/download.py
 
-      - name: Salva XML come artifact
+      - name: Salva JSON come artifact
         uses: actions/upload-artifact@v4
         with:
-          name: feed-xml-${{ github.run_id }}
-          path: output/xml/
+          name: feed-json-${{ github.run_id }}
+          path: output/feed.json
           retention-days: 7
