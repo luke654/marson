@@ -8,7 +8,10 @@ jobs:
   download:
     runs-on: ubuntu-latest
     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # fix deprecation warning
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -24,9 +27,10 @@ jobs:
       - name: Scarica e converti feed in JSON
         run: python scripts/download.py
 
-      - name: Salva JSON come artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: feed-json-${{ github.run_id }}
-          path: output/feed.json
-          retention-days: 7
+      - name: Commit e push feed.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.json
+          git diff --cached --quiet || git commit -m "chore: aggiorna feed.json [skip ci]"
+          git push
