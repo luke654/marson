@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T07:11:42.022369Z",
+  "generated_at": "2026-05-11T08:00:56.006289Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -91370,283 +91370,6 @@
           },
           {
             "@attributes": {
-              "IDImmobile": "193606131"
-            },
-            "CodiceNazione": {
-              "#text": "IT"
-            },
-            "CodiceComune": {
-              "#text": "015201"
-            },
-            "Comune": {
-              "#text": "San Vittore Olona"
-            },
-            "Strada": {
-              "@attributes": {
-                "IDStrada": "54"
-              },
-              "#text": "via"
-            },
-            "Indirizzo": {
-              "#text": "Generale Luigi Cadorna"
-            },
-            "Civico": {
-              "#text": "1"
-            },
-            "PubblicaCivico": {
-              "#text": "false"
-            },
-            "Cap": {
-              "#text": "20028"
-            },
-            "PubblicaIndirizzo": {
-              "#text": "false"
-            },
-            "Latitudine": {
-              "#text": "45.58660126"
-            },
-            "Longitudine": {
-              "#text": "8.94470024"
-            },
-            "Zoom": {
-              "#text": "12"
-            },
-            "PubblicaMappa": {
-              "#text": "false"
-            },
-            "Categoria": {
-              "#text": "3"
-            },
-            "Contratto": {
-              "#text": "V"
-            },
-            "Tipologia": {
-              "@attributes": {
-                "IDTipologia": "34"
-              },
-              "#text": "Ristorante"
-            },
-            "NrLocali": {
-              "#text": "2"
-            },
-            "Prezzo": {
-              "#text": "38000.0000"
-            },
-            "TrattativaRiservata": {
-              "#text": "false"
-            },
-            "MQSuperficie": {
-              "#text": "50"
-            },
-            "Riferimento": {
-              "#text": "E/E"
-            },
-            "SpeseMensili": {
-              "#text": "200.0000"
-            },
-            "TipoSpese": {
-              "#text": "0"
-            },
-            "DataInserimento": {
-              "#text": "2026-04-23T12:16:55"
-            },
-            "DataModifica": {
-              "#text": "2026-04-24T11:25:19"
-            },
-            "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
-                },
-                "Titolo": {
-                  "#text": "Pizzeria d'asporto in centro"
-                },
-                "Testo": {
-                  "#text": "Per Informazioni: Edoardo 3898979155 o 0331-407358 Immobiliare Marson Ufficio di Canegrate. In zona centrale, di forte passaggio, proponiamo in vendita attività di pizzeria d'asporto ben avviata e con incassi dimostrabili, possibilità di tavolini esterni. Forno a legna Per Informazioni: Edoardo 3898979155 o 0331-407358 Immobiliare Marson Ufficio di Canegrate."
-                },
-                "TestoBreve": {}
-              }
-            },
-            "Attivita": {
-              "Riscaldamento": {
-                "#text": "1"
-              },
-              "CablaggioRete": {
-                "#text": "true"
-              },
-              "PianiEdificio": {
-                "#text": "1"
-              }
-            },
-            "Immagini": {
-              "Immagine": [
-                {
-                  "@attributes": {
-                    "IDImmagine": "519705004",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128506570/1/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T10:24:33"
-                  },
-                  "Titolo": {
-                    "#text": "Interno non residenziale"
-                  },
-                  "Posizione": {
-                    "#text": "1"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "519705005",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128506570/2/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T10:24:55"
-                  },
-                  "Titolo": {
-                    "#text": "Bagno"
-                  },
-                  "Posizione": {
-                    "#text": "2"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "519705006",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128506570/3/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T10:25:20"
-                  },
-                  "Titolo": {
-                    "#text": "Interno non residenziale"
-                  },
-                  "Posizione": {
-                    "#text": "3"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "519705007",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128506570/4/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T10:25:28"
-                  },
-                  "Titolo": {
-                    "#text": "Interno non residenziale"
-                  },
-                  "Posizione": {
-                    "#text": "4"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "519705008",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128506570/5/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T10:25:41"
-                  },
-                  "Titolo": {
-                    "#text": "Ascensori"
-                  },
-                  "Posizione": {
-                    "#text": "5"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "519705009",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128506570/6/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T10:26:04"
-                  },
-                  "Titolo": {
-                    "#text": "Cucina"
-                  },
-                  "Posizione": {
-                    "#text": "6"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "519705010",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128506570/7/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T10:26:16"
-                  },
-                  "Titolo": {
-                    "#text": "Interno non residenziale"
-                  },
-                  "Posizione": {
-                    "#text": "7"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "519705011",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128506570/8/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T10:26:30"
-                  },
-                  "Titolo": {
-                    "#text": "Interno non residenziale"
-                  },
-                  "Posizione": {
-                    "#text": "8"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "519705012",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128506570/9/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T10:26:42"
-                  },
-                  "Titolo": {
-                    "#text": "Interno non residenziale"
-                  },
-                  "Posizione": {
-                    "#text": "9"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "@attributes": {
               "IDImmobile": "193605999"
             },
             "CodiceNazione": {
@@ -93160,6 +92883,283 @@
                   },
                   "Posizione": {
                     "#text": "23"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193606131"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015201"
+            },
+            "Comune": {
+              "#text": "San Vittore Olona"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "54"
+              },
+              "#text": "via"
+            },
+            "Indirizzo": {
+              "#text": "Generale Luigi Cadorna"
+            },
+            "Civico": {
+              "#text": "1"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20028"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "false"
+            },
+            "Latitudine": {
+              "#text": "45.58660126"
+            },
+            "Longitudine": {
+              "#text": "8.94470024"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "false"
+            },
+            "Categoria": {
+              "#text": "3"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "34"
+              },
+              "#text": "Ristorante"
+            },
+            "NrLocali": {
+              "#text": "2"
+            },
+            "Prezzo": {
+              "#text": "38000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "50"
+            },
+            "Riferimento": {
+              "#text": "E/E"
+            },
+            "SpeseMensili": {
+              "#text": "200.0000"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "DataInserimento": {
+              "#text": "2026-04-23T12:16:55"
+            },
+            "DataModifica": {
+              "#text": "2026-04-24T11:25:19"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "Pizzeria d'asporto in centro"
+                },
+                "Testo": {
+                  "#text": "Per Informazioni: Edoardo 3898979155 o 0331-407358 Immobiliare Marson Ufficio di Canegrate. In zona centrale, di forte passaggio, proponiamo in vendita attività di pizzeria d'asporto ben avviata e con incassi dimostrabili, possibilità di tavolini esterni. Forno a legna Per Informazioni: Edoardo 3898979155 o 0331-407358 Immobiliare Marson Ufficio di Canegrate."
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Attivita": {
+              "Riscaldamento": {
+                "#text": "1"
+              },
+              "CablaggioRete": {
+                "#text": "true"
+              },
+              "PianiEdificio": {
+                "#text": "1"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "519705004",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128506570/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T10:24:33"
+                  },
+                  "Titolo": {
+                    "#text": "Interno non residenziale"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "519705005",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128506570/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T10:24:55"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "519705006",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128506570/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T10:25:20"
+                  },
+                  "Titolo": {
+                    "#text": "Interno non residenziale"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "519705007",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128506570/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T10:25:28"
+                  },
+                  "Titolo": {
+                    "#text": "Interno non residenziale"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "519705008",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128506570/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T10:25:41"
+                  },
+                  "Titolo": {
+                    "#text": "Ascensori"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "519705009",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128506570/6/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T10:26:04"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "6"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "519705010",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128506570/7/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T10:26:16"
+                  },
+                  "Titolo": {
+                    "#text": "Interno non residenziale"
+                  },
+                  "Posizione": {
+                    "#text": "7"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "519705011",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128506570/8/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T10:26:30"
+                  },
+                  "Titolo": {
+                    "#text": "Interno non residenziale"
+                  },
+                  "Posizione": {
+                    "#text": "8"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "519705012",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128506570/9/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T10:26:42"
+                  },
+                  "Titolo": {
+                    "#text": "Interno non residenziale"
+                  },
+                  "Posizione": {
+                    "#text": "9"
                   }
                 }
               ]
