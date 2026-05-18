@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T07:21:58.916500Z",
+  "generated_at": "2026-05-18T08:30:38.474201Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -66636,18 +66636,30 @@
               "#text": "2025-11-21T12:17:11"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "DE"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "Für weitere Informationen kontaktieren Sie bitte Flaviana von IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO unter den Nummern ***/******** oder **/******. NERVIANO - FRAZ. GARBATOLA - in der Nähe des Friedhofs. Wir bieten ein kleines Waldgrundstück mit 990 m² Wald und 120 m² Ackerland in der Nähe der Promenade am Villoresi-Kanal zum Verkauf an. Für weitere Informationen kontaktieren Sie bitte Flaviana von IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO unter den Nummern ***/******** oder **/******.--9d32ab1a183cfec14f8e3ea576ff9897!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "BOSCHETTO"
-                },
-                "Testo": {
-                  "#text": "Per informazioni contattare Flaviana presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300 NERVIANO - FRAZ. GARBATOLA - vicinanze cimitero Proponiamo in vendita boschetto formato da mq 990 di Bosco + mq 120 di Seminativo in prossimità della passeggiata che costeggia il canale Villoresi Per informazioni contattare Flaviana presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300"
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "BOSCHETTO"
+                  },
+                  "Testo": {
+                    "#text": "Per informazioni contattare Flaviana presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300 NERVIANO - FRAZ. GARBATOLA - vicinanze cimitero Proponiamo in vendita boschetto formato da mq 990 di Bosco + mq 120 di Seminativo in prossimità della passeggiata che costeggia il canale Villoresi Per informazioni contattare Flaviana presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300"
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Terreno": {
               "Seminativo": {
