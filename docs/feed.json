@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T07:14:18.465427Z",
+  "generated_at": "2026-05-24T07:36:28.346777Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -34889,18 +34889,30 @@
               "#text": "2025-09-30T15:35:40"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "EN"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "For further information, contact Gianfranco at ***/******* or Immobiliare Marson Busto Garolfo at **/****** 6546. Casorezzo, sports field area, we offer for sale arable agricultural land of approximately 10,200 m2, easily accessible. Rectangular shape with a width of approximately 70 meters. For further information, contact Gianfranco at ***/******* or Immobiliare Marson Busto Garolfo at **/****** 6546.--0cf748aa5eff4a130cc7fe4dd97f2fed!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "TERRENO AGRICOLO"
-                },
-                "Testo": {
-                  "#text": "Per maggiori informazioni contattare Gianfranco al n° 327 008 5828 oppure Immobiliare Marson Busto Garolfo al n° 0331 122 6546. Casorezzo, zona campo sportivo, proponiamo in vendita terreno agricolo seminativo di ca. 10200 mq. facilmente accessibile. Forma rettangolare con larghezza di ca. 70 metri. Per maggiori informazioni contattare Gianfranco al n° 327 008 5828 oppure Immobiliare Marson Busto Garolfo al n° 0331 122 6546."
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "TERRENO AGRICOLO"
+                  },
+                  "Testo": {
+                    "#text": "Per maggiori informazioni contattare Gianfranco al n° 327 008 5828 oppure Immobiliare Marson Busto Garolfo al n° 0331 122 6546. Casorezzo, zona campo sportivo, proponiamo in vendita terreno agricolo seminativo di ca. 10200 mq. facilmente accessibile. Forma rettangolare con larghezza di ca. 70 metri. Per maggiori informazioni contattare Gianfranco al n° 327 008 5828 oppure Immobiliare Marson Busto Garolfo al n° 0331 122 6546."
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Terreno": {
               "Seminativo": {
