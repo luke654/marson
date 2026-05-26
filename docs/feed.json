@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T08:45:00.047012Z",
+  "generated_at": "2026-05-26T08:06:08.428520Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -44960,18 +44960,30 @@
               "#text": "2026-04-30T19:29:46"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "EN"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "For more information, contact Gianfranco at 327 008 5828 or Immobiliare Marson at 0331 122 6546. Busto Garolfo, in a building located in the central area and adjacent to the main services, we offer for sale a TWO-ROOM APARTMENT ON THE GROUND FLOOR WITH INDEPENDENT AND SEPARATE ACCESS FROM THE CONDOMINIUM COMPLEX TO WHICH IT IS PART. The apartment comprises a security entrance into the living room with kitchenette, a useful and large closet, hallway, bedroom, and bathroom. Independent heating with a condensing boiler and bars on all windows. LOW CONDOMINIUM FEES!! For more information, contact Gianfranco at 327 008 5828 or Immobiliare Marson at 0331 122 6546.--206d8568bc25080ba9eb7de0b39d50d1!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "BILOCALE PIANO TERRA"
-                },
-                "Testo": {
-                  "#text": "Per maggiori informazioni contattare Gianfranco al n° 327 008 5828 oppure Immobiliare Marson al n° 0331 122 6546. Busto Garolfo, in fabbricato sito in zona centrale e adiacente ai principali servizi, proponiamo in vendita BILOCALE AL PIANO TERRA CON ACCESSO AUTONOMO E SEPARATO RISPETTO AL COMPLESSO CONDOMINIALE DI CUI FA PARTE. L'appartamento è composto da ingresso blindato in soggiorno con angolo cottura, utile ed ampio ripostiglio, disimpegno, camera e bagno. Riscaldamento autonomo con caldaia a condensazione ed inferriate su tutte le finestre. BASSE SPESE CONDOMINIALI !! Per maggiori informazioni contattare Gianfranco al n° 327 008 5828 oppure Immobiliare Marson al n° 0331 122 6546."
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "BILOCALE PIANO TERRA"
+                  },
+                  "Testo": {
+                    "#text": "Per maggiori informazioni contattare Gianfranco al n° 327 008 5828 oppure Immobiliare Marson al n° 0331 122 6546. Busto Garolfo, in fabbricato sito in zona centrale e adiacente ai principali servizi, proponiamo in vendita BILOCALE AL PIANO TERRA CON ACCESSO AUTONOMO E SEPARATO RISPETTO AL COMPLESSO CONDOMINIALE DI CUI FA PARTE. L'appartamento è composto da ingresso blindato in soggiorno con angolo cottura, utile ed ampio ripostiglio, disimpegno, camera e bagno. Riscaldamento autonomo con caldaia a condensazione ed inferriate su tutte le finestre. BASSE SPESE CONDOMINIALI !! Per maggiori informazioni contattare Gianfranco al n° 327 008 5828 oppure Immobiliare Marson al n° 0331 122 6546."
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Residenziale": {
               "NrLivelli": {
