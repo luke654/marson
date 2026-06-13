@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T08:45:40.309582Z",
+  "generated_at": "2026-06-13T08:01:27.726829Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -1493,7 +1493,7 @@
               "#text": "2026-04-27T20:33:07"
             },
             "DataModifica": {
-              "#text": "2026-06-09T23:02:12"
+              "#text": "2026-06-12T11:54:10"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -1580,10 +1580,13 @@
                 "#text": "true"
               },
               "LeggeClasseEnergetica": {
-                "#text": "0"
+                "#text": "1"
               },
-              "InAttesaClasseEnergetica": {
-                "#text": "true"
+              "ClasseEnergetica": {
+                "#text": "E"
+              },
+              "IPE": {
+                "#text": "196.25"
               }
             },
             "Immagini": {
@@ -2216,6 +2219,21 @@
                   },
                   "Posizione": {
                     "#text": "35"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528281682",
+                    "Tipo": "P"
+                  },
+                  "URL": {
+                    "#text": "http://mediaserver.getrix.it/plan/129186430/print.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T09:53:41"
+                  },
+                  "Posizione": {
+                    "#text": "36"
                   }
                 }
               ]
@@ -6521,18 +6539,30 @@
               "#text": "2026-05-27T10:22:54"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "EN"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "FOR APPOINTMENTS AND MORE INFORMATION CALL IVAN AT 335-1333080. AVAILABLE IMMEDIATELY! In the heart of the historic center of Villastanza di Parabiago, with direct views of the square, we offer for sale a characteristic Lombard courtyard completely to be redeveloped, consisting of several residential and former agricultural buildings with a large private internal area. The property is developed on a plot of approximately 1,780 sqm and currently consists of 8 existing residential units with a total area of about 507 sqm, plus about 850 sqm of rustic buildings, former stables, barns, storage spaces, and accessory buildings. The property is completed by a large uncovered private courtyard/garden of about 1,000 sqm with double vehicular access from Via Mantegazza and Via Taro. The complex retains the typical layout of historic Lombard courtyards, with buildings arranged along the perimeter and a large central internal space. Inside the courtyard, there are several building bodies with different architectural and volumetric characteristics, ideal for building recovery operations, residential redevelopment, or real estate development. The residential part consists of a block made up of 8 apartments arranged over two levels. There is also a rustic building on two floors, large agricultural storage spaces, former stables, and barns, as well as low accessory buildings. The entire complex requires significant renovation work or possible demolition and reconstruction, with interesting urban potential. According to the technical report at our disposal, the potentially recoverable/buildable gross area is approximately 984 sqm of residential space! The location is particularly interesting due to its proximity to the central square of Villastanza, main services, schools, and train connections to Milan. Ideal solution for companies, real estate operators, or investors looking for a regeneration project in a historic context.--a8162371428e20b07930d8f46a424475!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "INTERA CORTE INDIPENDENTE IDEALE PER IMPRESE EDILI!"
-                },
-                "Testo": {
-                  "#text": "PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE IVAN AL N 335-1333080. LIBERO SUBITO! Nel pieno centro storico di Villastanza di Parabiago, con affaccio diretto sulla piazza, proponiamo in vendita caratteristica corte lombarda completamente da riqualificare, composta da più fabbricati residenziali ed ex agricoli con ampia area interna privata. La proprietà si sviluppa su un lotto di circa 1.780 mq ed è attualmente composta da 8 unità abitative esistenti per una superficie complessiva di circa 507 mq, oltre a circa 850 mq tra rustici, ex stalle, fienili, depositi e fabbricati accessori. Completa la proprietà un’ampia corte/giardino privato scoperto di circa 1.000 mq con doppio accesso carraio da via Mantegazza e via Taro. Il complesso conserva il tipico impianto delle corti lombarde storiche, con edifici disposti lungo il perimetro e grande spazio centrale interno. All’interno della corte sono presenti diversi corpi di fabbrica con differenti caratteristiche architettoniche e volumetriche, ideali per operazioni di recupero edilizio, riqualificazione residenziale o sviluppo immobiliare. La parte residenziale è costituita da una stecca composta da 8 abitazioni disposte su due livelli. Sono inoltre presenti un fabbricato rustico su due piani, ampi depositi agricoli, ex stalle e fienili, oltre a bassi fabbricati accessori. L’intero complesso necessita di importante intervento di ristrutturazione o possibile demolizione e ricostruzione, con interessanti potenzialità urbanistiche. Secondo la relazione tecnica a nostra disposizione, la superficie lorda potenzialmente recuperabile/realizzabile è pari a circa 984 mq residenziali complessivi! La posizione risulta particolarmente interessante grazie alla vicinanza alla piazza centrale di Villastanza, ai principali servizi, alle scuole e ai collegamenti ferroviari verso Milano. Soluzione ideale per imprese, operatori immobiliari o investitori alla ricerca di un intervento di rigenerazione in contesto storico."
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "INTERA CORTE INDIPENDENTE IDEALE PER IMPRESE EDILI!"
+                  },
+                  "Testo": {
+                    "#text": "PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE IVAN AL N 335-1333080. LIBERO SUBITO! Nel pieno centro storico di Villastanza di Parabiago, con affaccio diretto sulla piazza, proponiamo in vendita caratteristica corte lombarda completamente da riqualificare, composta da più fabbricati residenziali ed ex agricoli con ampia area interna privata. La proprietà si sviluppa su un lotto di circa 1.780 mq ed è attualmente composta da 8 unità abitative esistenti per una superficie complessiva di circa 507 mq, oltre a circa 850 mq tra rustici, ex stalle, fienili, depositi e fabbricati accessori. Completa la proprietà un’ampia corte/giardino privato scoperto di circa 1.000 mq con doppio accesso carraio da via Mantegazza e via Taro. Il complesso conserva il tipico impianto delle corti lombarde storiche, con edifici disposti lungo il perimetro e grande spazio centrale interno. All’interno della corte sono presenti diversi corpi di fabbrica con differenti caratteristiche architettoniche e volumetriche, ideali per operazioni di recupero edilizio, riqualificazione residenziale o sviluppo immobiliare. La parte residenziale è costituita da una stecca composta da 8 abitazioni disposte su due livelli. Sono inoltre presenti un fabbricato rustico su due piani, ampi depositi agricoli, ex stalle e fienili, oltre a bassi fabbricati accessori. L’intero complesso necessita di importante intervento di ristrutturazione o possibile demolizione e ricostruzione, con interessanti potenzialità urbanistiche. Secondo la relazione tecnica a nostra disposizione, la superficie lorda potenzialmente recuperabile/realizzabile è pari a circa 984 mq residenziali complessivi! La posizione risulta particolarmente interessante grazie alla vicinanza alla piazza centrale di Villastanza, ai principali servizi, alle scuole e ai collegamenti ferroviari verso Milano. Soluzione ideale per imprese, operatori immobiliari o investitori alla ricerca di un intervento di rigenerazione in contesto storico."
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Residenziale": {
               "StatoImmobile": {
@@ -88864,10 +88894,10 @@
               "#text": "3"
             },
             "Prezzo": {
-              "#text": "313000.0000"
+              "#text": "299000.0000"
             },
             "TrattativaRiservata": {
-              "#text": "true"
+              "#text": "false"
             },
             "MQSuperficie": {
               "#text": "185"
@@ -88882,7 +88912,7 @@
               "#text": "2026-04-16T12:48:54"
             },
             "DataModifica": {
-              "#text": "2026-06-05T19:01:46"
+              "#text": "2026-06-12T20:39:17"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -90059,268 +90089,6 @@
                   },
                   "Posizione": {
                     "#text": "4"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "@attributes": {
-              "IDImmobile": "193606066"
-            },
-            "CodiceNazione": {
-              "#text": "IT"
-            },
-            "CodiceComune": {
-              "#text": "015058"
-            },
-            "Comune": {
-              "#text": "Casorezzo"
-            },
-            "Strada": {
-              "@attributes": {
-                "IDStrada": "54"
-              },
-              "#text": "via"
-            },
-            "Indirizzo": {
-              "#text": "Parabiago"
-            },
-            "Civico": {
-              "#text": "61"
-            },
-            "PubblicaCivico": {
-              "#text": "false"
-            },
-            "Cap": {
-              "#text": "20003"
-            },
-            "PubblicaIndirizzo": {
-              "#text": "false"
-            },
-            "Latitudine": {
-              "#text": "45.52479935"
-            },
-            "Longitudine": {
-              "#text": "8.90859985"
-            },
-            "Zoom": {
-              "#text": "12"
-            },
-            "PubblicaMappa": {
-              "#text": "false"
-            },
-            "Categoria": {
-              "#text": "5"
-            },
-            "Contratto": {
-              "#text": "V"
-            },
-            "Tipologia": {
-              "@attributes": {
-                "IDTipologia": "141"
-              },
-              "#text": "Terreno edificabile"
-            },
-            "NrLocali": {
-              "#text": "0"
-            },
-            "Prezzo": {
-              "#text": "125000.0000"
-            },
-            "TrattativaRiservata": {
-              "#text": "false"
-            },
-            "MQSuperficie": {
-              "#text": "706"
-            },
-            "Riferimento": {
-              "#text": "IMBG edificabile"
-            },
-            "TipoSpese": {
-              "#text": "0"
-            },
-            "DataInserimento": {
-              "#text": "2026-04-17T12:46:43"
-            },
-            "DataModifica": {
-              "#text": "2026-05-26T15:28:41"
-            },
-            "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
-                },
-                "Titolo": {
-                  "#text": "TERRENO EDIFICABILE"
-                },
-                "Testo": {
-                  "#text": "Per maggiori informazioni contattare Immobiliare Marson Busto Garolfo al n° 0331 122 6546 oppure al n° 340 746 8127 Casorezzo, zona residenziale vicinanze principali servizi ed in prossimità di importanti vie di comunicazione, proponiamo terreno edificabile con accesso da strada asfaltata. LICENZA SINGOLA, ideale per villa unifamiliare come da ipotesi di progetto allegato nelle foto (che può essere oggetto di modifica secondo i propri gusti e necessità). Indice edificabilità 1 mc/mq. Per maggiori informazioni contattare Immobiliare Marson Busto Garolfo al n° 0331 122 6546 oppure al n° 340 746 8127"
-                },
-                "TestoBreve": {}
-              }
-            },
-            "Terreno": {
-              "CostruzioneAbitativa": {
-                "#text": "true"
-              }
-            },
-            "Immagini": {
-              "Immagine": [
-                {
-                  "@attributes": {
-                    "IDImmagine": "518742508",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128371016/1/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-17T12:46:42"
-                  },
-                  "Titolo": {
-                    "#text": "Altro"
-                  },
-                  "Posizione": {
-                    "#text": "1"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "518742509",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128371016/2/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-17T12:46:43"
-                  },
-                  "Titolo": {
-                    "#text": "Planimetria"
-                  },
-                  "Posizione": {
-                    "#text": "2"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "518742510",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128371016/3/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-17T12:46:43"
-                  },
-                  "Titolo": {
-                    "#text": "Planimetria"
-                  },
-                  "Posizione": {
-                    "#text": "3"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "518742511",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128371016/4/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-17T12:46:43"
-                  },
-                  "Titolo": {
-                    "#text": "Altro"
-                  },
-                  "Posizione": {
-                    "#text": "4"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "518742512",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128371016/5/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-17T12:46:43"
-                  },
-                  "Titolo": {
-                    "#text": "Terreno"
-                  },
-                  "Posizione": {
-                    "#text": "5"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "518742513",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128371016/6/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-17T12:46:43"
-                  },
-                  "Titolo": {
-                    "#text": "Giardino"
-                  },
-                  "Posizione": {
-                    "#text": "6"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "518742514",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128371016/7/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-17T12:46:43"
-                  },
-                  "Titolo": {
-                    "#text": "Terreno"
-                  },
-                  "Posizione": {
-                    "#text": "7"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "518742506",
-                    "Tipo": "P"
-                  },
-                  "URL": {
-                    "#text": "http://mediaserver.getrix.it/plan/125758682/print.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-17T14:11:41"
-                  },
-                  "Posizione": {
-                    "#text": "8"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "518742507",
-                    "Tipo": "P"
-                  },
-                  "URL": {
-                    "#text": "http://mediaserver.getrix.it/plan/125758704/print.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-17T14:11:59"
-                  },
-                  "Posizione": {
-                    "#text": "9"
                   }
                 }
               ]
@@ -94213,7 +93981,7 @@
               "#text": "TRILO via bissolati"
             },
             "SpeseMensili": {
-              "#text": "170.0000"
+              "#text": "200.0000"
             },
             "TipoSpese": {
               "#text": "0"
@@ -94225,7 +93993,7 @@
               "#text": "2026-05-13T11:56:41"
             },
             "DataModifica": {
-              "#text": "2026-05-13T12:02:04"
+              "#text": "2026-06-12T11:47:15"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -101605,6 +101373,322 @@
                   },
                   "Posizione": {
                     "#text": "52"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193669344"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015058"
+            },
+            "Comune": {
+              "#text": "Casorezzo"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "54"
+              },
+              "#text": "via"
+            },
+            "Indirizzo": {
+              "#text": "Parabiago"
+            },
+            "Civico": {
+              "#text": "61"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20003"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "false"
+            },
+            "Latitudine": {
+              "#text": "45.52479935"
+            },
+            "Longitudine": {
+              "#text": "8.90859985"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "false"
+            },
+            "Categoria": {
+              "#text": "5"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "141"
+              },
+              "#text": "Terreno edificabile"
+            },
+            "NrLocali": {
+              "#text": "0"
+            },
+            "Prezzo": {
+              "#text": "125000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "706"
+            },
+            "Riferimento": {
+              "#text": "IMBG edificabile"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "DataInserimento": {
+              "#text": "2026-06-12T15:37:30"
+            },
+            "DataModifica": {
+              "#text": "2026-06-12T15:38:56"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "TERRENO EDIFICABILE"
+                },
+                "Testo": {
+                  "#text": "Per maggiori informazioni contattare Immobiliare Marson Busto Garolfo al n° 0331 122 6546 oppure al n° 340 746 8127 Casorezzo, zona residenziale vicinanze principali servizi ed in prossimità di importanti vie di comunicazione, proponiamo terreno edificabile con accesso da strada asfaltata. LICENZA SINGOLA, ideale per villa unifamiliare come da ipotesi di progetto allegato nelle foto (che può essere oggetto di modifica secondo i propri gusti e necessità). Indice edificabilità 1 mc/mq. Le immagini della villa sono puramente dimostrative sulla base di una ipotesi di progetto di villa unifamiliare. Per maggiori informazioni contattare Immobiliare Marson Busto Garolfo al n° 0331 122 6546 oppure al n° 340 746 8127"
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Terreno": {
+              "CostruzioneAbitativa": {
+                "#text": "true"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180691",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:28"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180692",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:28"
+                  },
+                  "Titolo": {
+                    "#text": "Mappa"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180693",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:29"
+                  },
+                  "Titolo": {
+                    "#text": "Dettagli"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180694",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:29"
+                  },
+                  "Titolo": {
+                    "#text": "Dettagli"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180695",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:29"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180696",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/6/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:29"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "6"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180697",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/7/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:29"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "7"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180698",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/8/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:30"
+                  },
+                  "Titolo": {
+                    "#text": "Planimetria"
+                  },
+                  "Posizione": {
+                    "#text": "8"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180699",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/9/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:30"
+                  },
+                  "Titolo": {
+                    "#text": "Mappa"
+                  },
+                  "Posizione": {
+                    "#text": "9"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180700",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129867774/10/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:30"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "10"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180689",
+                    "Tipo": "P"
+                  },
+                  "URL": {
+                    "#text": "http://mediaserver.getrix.it/plan/129198998/print.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:30"
+                  },
+                  "Posizione": {
+                    "#text": "11"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "528180690",
+                    "Tipo": "P"
+                  },
+                  "URL": {
+                    "#text": "http://mediaserver.getrix.it/plan/129199000/print.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-12T15:37:30"
+                  },
+                  "Posizione": {
+                    "#text": "12"
                   }
                 }
               ]
