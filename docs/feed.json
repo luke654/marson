@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T09:17:49.220934Z",
+  "generated_at": "2026-06-18T08:59:44.388924Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -377,21 +377,43 @@
               "#text": "2026-06-16T18:40:43"
             },
             "DataModifica": {
-              "#text": "2026-06-16T18:44:13"
+              "#text": "2026-06-17T12:47:41"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "EN"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "Legnarello in a completely renovated Lombard courtyard, we offer two rooms + services on the ground floor UNFURNISHED. The apartment consists of a living room with an open kitchen, hallway, bedroom, and bathroom, along with a single garage. Available immediately. Rental only to clients with demonstrable income.--094a4ade04189ebf0ebbe10b557e0c0b!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "Due locali con box Legnarello"
+                {
+                  "@attributes": {
+                    "Lingua": "ES"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "Legnarello en corte lombarda completamente reformada, ofrecemos dos locales + servicios en la planta baja NO amueblado. El apartamento está compuesto por salón con cocina americana, pasillo, dormitorio y baño, anexo garaje individual. Disponible de inmediato. Se alquila solo a clientes con ingresos demostrables.--094a4ade04189ebf0ebbe10b557e0c0b!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Testo": {
-                  "#text": "Legnarello in corte lombarda completamente ristrutturata proponiamo due locali + servizi al piano terra NON arredato. L'appartamento è composto da soggiorno con cucina a vista, disimpegno, camera e bagno, annesso box singolo. Libero subito. Affittasi solo a clienti con redditi dimostrabili"
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "Due locali con box Legnarello"
+                  },
+                  "Testo": {
+                    "#text": "Legnarello in corte lombarda completamente ristrutturata proponiamo due locali + servizi al piano terra NON arredato. L'appartamento è composto da soggiorno con cucina a vista, disimpegno, camera e bagno, annesso box singolo. Libero subito. Affittasi solo a clienti con redditi dimostrabili"
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Residenziale": {
               "NrLivelli": {
