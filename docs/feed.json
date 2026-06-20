@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T09:18:21.782791Z",
+  "generated_at": "2026-06-20T08:01:54.524801Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -10766,7 +10766,7 @@
               "#text": "false"
             },
             "MQSuperficie": {
-              "#text": "65"
+              "#text": "89"
             },
             "Riferimento": {
               "#text": "BILOCOLDILANA"
@@ -10784,7 +10784,7 @@
               "#text": "2026-06-18T14:02:51"
             },
             "DataModifica": {
-              "#text": "2026-06-18T14:06:30"
+              "#text": "2026-06-19T14:11:46"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -10792,10 +10792,10 @@
                   "Lingua": "IT"
                 },
                 "Titolo": {
-                  "#text": "BILOCALE CON CUCINA ABITABILE, TRE BALCONI, CANTINA E BOX"
+                  "#text": "BILOCALE CON CUCINA ABITABILE, CANTINA E BOX SINGOLO"
                 },
                 "Testo": {
-                  "#text": "In un contesto di sole 4 famiglie, vicino al centro paese e all'ingresso autostradale, proponiamo in vendita, bilocale situato al piano primo (senza ascensore). La soluzione è stata recentemente ristrutturata. Presente aria condizionata e zanzariere. Infissi doppio vetro alluminio. La soluzione è così composta: ampio soggiorno, cucina abitabile, disimpegno, camera matrimoniale, ampio bagno, tre balconi. Al piano seminterrato, ampia cantina e box singolo (mt 5 x 2.10)."
+                  "#text": "PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE ALESSANDRO N° 329.4125299. IMMOBILIARE MARSON DI SAN VITTORE OLONA PROPONE IN VENDITA: Cerro Maggiore (MI) Via Col di Lana n.21. LIBERA AL ROGITO! In un contesto di sole 4 famiglie, vicino al centro paese e all'ingresso autostradale, proponiamo in vendita, bilocale situato al piano primo (senza ascensore). La soluzione è stata recentemente ristrutturata. Presente aria condizionata, zanzariere e infissi doppio vetro alluminio. La soluzione è così composta: soggiorno, cucina abitabile, disimpegno, camera matrimoniale, ampio bagno, due balconi e terrazzino. Al piano seminterrato, ampia cantina e box singolo (mt 6 x mt 2.10). Possibilità acquisto mobilio. Riscaldamento centralizzato con termovalvole. Spese condominiali indicate, già comprensive di riscaldamento e acqua. Contattaci al n°329.4125299 per ricevere maggiori informazioni o per fissare una visita."
                 },
                 "TestoBreve": {}
               }
@@ -11277,29 +11277,11 @@
                 },
                 {
                   "@attributes": {
-                    "IDImmagine": "528997498",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/130021208/23/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-06-18T12:04:20"
-                  },
-                  "Titolo": {
-                    "#text": "Facciata"
-                  },
-                  "Posizione": {
-                    "#text": "23"
-                  }
-                },
-                {
-                  "@attributes": {
                     "IDImmagine": "528997497",
                     "Tipo": "F"
                   },
                   "URL": {
-                    "#text": "https://res.getrix.it/media/ad/130021208/24/m.jpg"
+                    "#text": "https://res.getrix.it/media/ad/130021208/23/m.jpg"
                   },
                   "DataModifica": {
                     "#text": "2026-06-18T12:04:19"
@@ -11308,7 +11290,39 @@
                     "#text": "Box auto"
                   },
                   "Posizione": {
+                    "#text": "23"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "529452690",
+                    "Tipo": "P"
+                  },
+                  "URL": {
+                    "#text": "http://mediaserver.getrix.it/plan/129599428/print.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-19T12:10:19"
+                  },
+                  "Titolo": {},
+                  "Posizione": {
                     "#text": "24"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "529452689",
+                    "Tipo": "P"
+                  },
+                  "URL": {
+                    "#text": "http://mediaserver.getrix.it/plan/129599426/print.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-19T12:10:18"
+                  },
+                  "Titolo": {},
+                  "Posizione": {
+                    "#text": "25"
                   }
                 }
               ]
@@ -27642,307 +27656,6 @@
           },
           {
             "@attributes": {
-              "IDImmobile": "193605948"
-            },
-            "CodiceNazione": {
-              "#text": "IT"
-            },
-            "CodiceComune": {
-              "#text": "015118"
-            },
-            "Comune": {
-              "#text": "Legnano"
-            },
-            "Zona": {
-              "#text": "Oltre Stazione"
-            },
-            "Strada": {
-              "@attributes": {
-                "IDStrada": "54"
-              },
-              "#text": "via"
-            },
-            "Indirizzo": {
-              "#text": "Biella"
-            },
-            "PubblicaCivico": {
-              "#text": "false"
-            },
-            "Cap": {
-              "#text": "20025"
-            },
-            "PubblicaIndirizzo": {
-              "#text": "true"
-            },
-            "Latitudine": {
-              "#text": "45.57740021"
-            },
-            "Longitudine": {
-              "#text": "8.87619972"
-            },
-            "Zoom": {
-              "#text": "12"
-            },
-            "PubblicaMappa": {
-              "#text": "true"
-            },
-            "Categoria": {
-              "#text": "5"
-            },
-            "Contratto": {
-              "#text": "V"
-            },
-            "Tipologia": {
-              "@attributes": {
-                "IDTipologia": "140"
-              },
-              "#text": "Terreno agricolo"
-            },
-            "NrLocali": {
-              "#text": "0"
-            },
-            "Prezzo": {
-              "#text": "3500.0000"
-            },
-            "TrattativaRiservata": {
-              "#text": "false"
-            },
-            "MQSuperficie": {
-              "#text": "720"
-            },
-            "Riferimento": {
-              "#text": "Flaviana - Bosco Legnano"
-            },
-            "TipoSpese": {
-              "#text": "0"
-            },
-            "DataInserimento": {
-              "#text": "2024-06-20T19:15:04"
-            },
-            "DataModifica": {
-              "#text": "2024-06-21T08:45:38"
-            },
-            "Descrizioni": {
-              "Descrizione": [
-                {
-                  "@attributes": {
-                    "Lingua": "EN"
-                  },
-                  "Titolo": {},
-                  "Testo": {
-                    "#text": "For information contact FLAVIANA at IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO on the numbers ***/******* or **/****** LEGNANO - In the area adjacent to Via Biella, BOSCO CEDUO is offered for sale . For information contact FLAVIANA at IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO on the numbers ***/******* or **/******--72c9e98021c224c823d87597f65a9a53!"
-                  },
-                  "TestoBreve": {}
-                },
-                {
-                  "@attributes": {
-                    "Lingua": "ES"
-                  },
-                  "Titolo": {},
-                  "Testo": {
-                    "#text": "Para obtener más información, póngase en contacto con FLAVIANA en IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO a los números ***/******* o **/****** LEGNANO - En la zona adyacente a Via Biella, BOSCO CEDUO está ofrecido a la venta. Para más información contactar con FLAVIANA en IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO a los números ***/******* o **/******--72c9e98021c224c823d87597f65a9a53!"
-                  },
-                  "TestoBreve": {}
-                },
-                {
-                  "@attributes": {
-                    "Lingua": "FR"
-                  },
-                  "Titolo": {},
-                  "Testo": {
-                    "#text": "Pour plus d'informations, contactez Flaviana de l'agence immobilière Marson à San Giorgio Su Legnano au ***/******* ou **/****** LEGNANO - Dans la zone adjacente à la Via Biella, un BOIS DE CUIVRE est à vendre. Pour plus d'informations, contactez Flaviana de l'agence immobilière Marson à San Giorgio Su Legnano au ***/******* ou **/******--72c9e98021c224c823d87597f65a9a53!"
-                  },
-                  "TestoBreve": {}
-                },
-                {
-                  "@attributes": {
-                    "Lingua": "IT"
-                  },
-                  "Titolo": {
-                    "#text": "BOSCO CEDUO"
-                  },
-                  "Testo": {
-                    "#text": "Per informazioni contattare FLAVIANA presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300 LEGNANO - In zona adiacente a Via Biella si propone in vendita BOSCO CEDUO. Per informazioni contattare FLAVIANA presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300"
-                  },
-                  "TestoBreve": {}
-                },
-                {
-                  "@attributes": {
-                    "Lingua": "RU"
-                  },
-                  "Titolo": {},
-                  "Testo": {
-                    "#text": "Для получения информации свяжитесь с ФЛАВИАНОЙ по адресу IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO по телефону ***/******* или **/****** LEGNANO - В районе, прилегающем к улице Виа Биелла, предлагается BOSCO CEDUO для распродажа . Для получения информации свяжитесь с ФЛАВИАНОЙ в IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO по номерам ***/******* или **/****** .--72c9e98021c224c823d87597f65a9a53!"
-                  },
-                  "TestoBreve": {}
-                }
-              ]
-            },
-            "Terreno": {
-              "Boschivo": {
-                "#text": "true"
-              },
-              "CostruzioneAgricola": {
-                "#text": "true"
-              }
-            },
-            "Immagini": {
-              "Immagine": {
-                "@attributes": {
-                  "IDImmagine": "441399050",
-                  "Tipo": "F"
-                },
-                "URL": {
-                  "#text": "https://res.getrix.it/media/ad/112700543/1/m.jpg"
-                },
-                "DataModifica": {
-                  "#text": "2024-06-20T17:16:58"
-                },
-                "Titolo": {
-                  "#text": "Mappa"
-                },
-                "Posizione": {
-                  "#text": "1"
-                }
-              }
-            }
-          },
-          {
-            "@attributes": {
-              "IDImmobile": "193606010"
-            },
-            "CodiceNazione": {
-              "#text": "IT"
-            },
-            "CodiceComune": {
-              "#text": "015248"
-            },
-            "Comune": {
-              "#text": "Villa Cortese"
-            },
-            "Strada": {
-              "@attributes": {
-                "IDStrada": "54"
-              },
-              "#text": "via"
-            },
-            "Indirizzo": {
-              "#text": "Pisa"
-            },
-            "PubblicaCivico": {
-              "#text": "false"
-            },
-            "Cap": {
-              "#text": "20035"
-            },
-            "PubblicaIndirizzo": {
-              "#text": "true"
-            },
-            "Latitudine": {
-              "#text": "45.57400131"
-            },
-            "Longitudine": {
-              "#text": "8.88119984"
-            },
-            "Zoom": {
-              "#text": "12"
-            },
-            "PubblicaMappa": {
-              "#text": "true"
-            },
-            "Categoria": {
-              "#text": "5"
-            },
-            "Contratto": {
-              "#text": "V"
-            },
-            "Tipologia": {
-              "@attributes": {
-                "IDTipologia": "140"
-              },
-              "#text": "Terreno agricolo"
-            },
-            "NrLocali": {
-              "#text": "0"
-            },
-            "Prezzo": {
-              "#text": "18000.0000"
-            },
-            "TrattativaRiservata": {
-              "#text": "false"
-            },
-            "MQSuperficie": {
-              "#text": "4220"
-            },
-            "Riferimento": {
-              "#text": "Flaviana - Bosco Villa Cortese"
-            },
-            "TipoSpese": {
-              "#text": "0"
-            },
-            "DataInserimento": {
-              "#text": "2024-06-20T19:20:34"
-            },
-            "DataModifica": {
-              "#text": "2024-11-13T18:10:21"
-            },
-            "Descrizioni": {
-              "Descrizione": [
-                {
-                  "@attributes": {
-                    "Lingua": "EN"
-                  },
-                  "Titolo": {},
-                  "Testo": {
-                    "#text": "For information, contact FLAVIANA at IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO at the numbers ***/******* or **/****** VILLA CORTESE - Offered near Via Pisa, COPPER FOREST, ideal for wood cutting. For information, contact FLAVIANA at IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO at the numbers ***/******* or **/******--3064b43d16195be4e6cd0f1b3e585f66!"
-                  },
-                  "TestoBreve": {}
-                },
-                {
-                  "@attributes": {
-                    "Lingua": "IT"
-                  },
-                  "Titolo": {
-                    "#text": "BOSCO CEDUO"
-                  },
-                  "Testo": {
-                    "#text": "Per informazioni contattare FLAVIANA presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300 VILLA CORTESE - Si propone nelle vicinanze di Via Pisa BOSCO CEDUO, ideale per taglio legna. Per informazioni contattare FLAVIANA presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300"
-                  },
-                  "TestoBreve": {}
-                }
-              ]
-            },
-            "Terreno": {
-              "Boschivo": {
-                "#text": "true"
-              },
-              "CostruzioneAgricola": {
-                "#text": "true"
-              }
-            },
-            "Immagini": {
-              "Immagine": {
-                "@attributes": {
-                  "IDImmagine": "441399051",
-                  "Tipo": "F"
-                },
-                "URL": {
-                  "#text": "https://res.getrix.it/media/ad/112700733/1/m.jpg"
-                },
-                "DataModifica": {
-                  "#text": "2024-06-20T17:20:56"
-                },
-                "Titolo": {
-                  "#text": "Mappa"
-                },
-                "Posizione": {
-                  "#text": "1"
-                }
-              }
-            }
-          },
-          {
-            "@attributes": {
               "IDImmobile": "193606142"
             },
             "CodiceNazione": {
@@ -33268,341 +32981,6 @@
                   },
                   "Posizione": {
                     "#text": "4"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "@attributes": {
-              "IDImmobile": "193605962"
-            },
-            "CodiceNazione": {
-              "#text": "IT"
-            },
-            "CodiceComune": {
-              "#text": "015248"
-            },
-            "Comune": {
-              "#text": "Villa Cortese"
-            },
-            "Strada": {
-              "@attributes": {
-                "IDStrada": "54"
-              },
-              "#text": "via"
-            },
-            "Indirizzo": {
-              "#text": "Pisa"
-            },
-            "PubblicaCivico": {
-              "#text": "false"
-            },
-            "Cap": {
-              "#text": "20035"
-            },
-            "PubblicaIndirizzo": {
-              "#text": "true"
-            },
-            "Latitudine": {
-              "#text": "45.57400131"
-            },
-            "Longitudine": {
-              "#text": "8.88119984"
-            },
-            "Zoom": {
-              "#text": "12"
-            },
-            "PubblicaMappa": {
-              "#text": "true"
-            },
-            "Categoria": {
-              "#text": "5"
-            },
-            "Contratto": {
-              "#text": "V"
-            },
-            "Tipologia": {
-              "@attributes": {
-                "IDTipologia": "140"
-              },
-              "#text": "Terreno agricolo"
-            },
-            "NrLocali": {
-              "#text": "0"
-            },
-            "Prezzo": {
-              "#text": "20000.0000"
-            },
-            "TrattativaRiservata": {
-              "#text": "false"
-            },
-            "MQSuperficie": {
-              "#text": "4220"
-            },
-            "Riferimento": {
-              "#text": "Flaviana - Bosco Villa Cortese"
-            },
-            "TipoSpese": {
-              "#text": "0"
-            },
-            "DataInserimento": {
-              "#text": "2024-11-06T16:43:01"
-            },
-            "DataModifica": {
-              "#text": "2026-05-08T16:12:08"
-            },
-            "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
-                },
-                "Titolo": {
-                  "#text": "BOSCO"
-                },
-                "Testo": {
-                  "#text": "Per informazioni contattare FLAVIANA 329.0927835 presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO- ufficio 0331.410300 VILLA CORTESE - Nelle immediate vicinanze dell'Ospedale Nuovo di Legnano, proponiamo in vendita bosco ceduo. Non sono presenti allacci. Il bosco non è recintato. Per informazioni contattare FLAVIANA 329.0927835 presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO- ufficio 0331.410300"
-                },
-                "TestoBreve": {}
-              }
-            },
-            "Terreno": {
-              "Boschivo": {
-                "#text": "true"
-              },
-              "CostruzioneAgricola": {
-                "#text": "true"
-              }
-            },
-            "Immagini": {
-              "Immagine": [
-                {
-                  "@attributes": {
-                    "IDImmagine": "455395567",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/115911775/1/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2024-11-06T15:53:21"
-                  },
-                  "Titolo": {
-                    "#text": "Terreno"
-                  },
-                  "Posizione": {
-                    "#text": "1"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "455395566",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/115911775/2/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2024-11-06T15:53:17"
-                  },
-                  "Titolo": {
-                    "#text": "Terreno"
-                  },
-                  "Posizione": {
-                    "#text": "2"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "455395568",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/115911775/3/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2024-11-06T15:53:23"
-                  },
-                  "Titolo": {
-                    "#text": "Terreno"
-                  },
-                  "Posizione": {
-                    "#text": "3"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "455395564",
-                    "Tipo": "P"
-                  },
-                  "URL": {
-                    "#text": "http://mediaserver.getrix.it/plan/109223601/print.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2024-11-06T15:43:56"
-                  },
-                  "Posizione": {
-                    "#text": "4"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "455395565",
-                    "Tipo": "P"
-                  },
-                  "URL": {
-                    "#text": "http://mediaserver.getrix.it/plan/109223607/print.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2024-11-06T15:44:06"
-                  },
-                  "Posizione": {
-                    "#text": "5"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "@attributes": {
-              "IDImmobile": "193605961"
-            },
-            "CodiceNazione": {
-              "#text": "IT"
-            },
-            "CodiceComune": {
-              "#text": "015118"
-            },
-            "Comune": {
-              "#text": "Legnano"
-            },
-            "Zona": {
-              "#text": "Oltre Stazione"
-            },
-            "Strada": {
-              "@attributes": {
-                "IDStrada": "54"
-              },
-              "#text": "via"
-            },
-            "Indirizzo": {
-              "#text": "per Inveruno"
-            },
-            "PubblicaCivico": {
-              "#text": "false"
-            },
-            "Cap": {
-              "#text": "20025"
-            },
-            "PubblicaIndirizzo": {
-              "#text": "true"
-            },
-            "Latitudine": {
-              "#text": "45.57369995"
-            },
-            "Longitudine": {
-              "#text": "8.90159988"
-            },
-            "Zoom": {
-              "#text": "12"
-            },
-            "PubblicaMappa": {
-              "#text": "true"
-            },
-            "Categoria": {
-              "#text": "5"
-            },
-            "Contratto": {
-              "#text": "V"
-            },
-            "Tipologia": {
-              "@attributes": {
-                "IDTipologia": "140"
-              },
-              "#text": "Terreno agricolo"
-            },
-            "NrLocali": {
-              "#text": "0"
-            },
-            "Prezzo": {
-              "#text": "13000.0000"
-            },
-            "TrattativaRiservata": {
-              "#text": "false"
-            },
-            "MQSuperficie": {
-              "#text": "1860"
-            },
-            "Riferimento": {
-              "#text": "Terreno agricolo 80"
-            },
-            "TipoSpese": {
-              "#text": "0"
-            },
-            "DataInserimento": {
-              "#text": "2024-11-06T17:21:16"
-            },
-            "DataModifica": {
-              "#text": "2024-11-08T09:28:45"
-            },
-            "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
-                },
-                "Titolo": {
-                  "#text": "TERRENO AGRICOLO"
-                },
-                "Testo": {
-                  "#text": "Per informazioni contattare FLAVIANA 329.0927835 presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO- ufficio 0331.410300 LEGNANO - In zona cimitero proponiamo terreno agricolo. Lunghezza circa 205 mt x larghezza circa 9 mt. Nessun allaccio presente. Per informazioni contattare FLAVIANA 329.0927835 presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO- ufficio 0331.410300"
-                },
-                "TestoBreve": {}
-              }
-            },
-            "Terreno": {
-              "Seminativo": {
-                "#text": "true"
-              },
-              "PratiStabili": {
-                "#text": "true"
-              },
-              "CostruzioneAgricola": {
-                "#text": "true"
-              }
-            },
-            "Immagini": {
-              "Immagine": [
-                {
-                  "@attributes": {
-                    "IDImmagine": "455645131",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/115913259/1/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2024-11-08T09:28:40"
-                  },
-                  "Titolo": {
-                    "#text": "Mappa"
-                  },
-                  "Posizione": {
-                    "#text": "1"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "455645130",
-                    "Tipo": "P"
-                  },
-                  "URL": {
-                    "#text": "http://mediaserver.getrix.it/plan/109225043/print.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2024-11-06T16:22:44"
-                  },
-                  "Posizione": {
-                    "#text": "2"
                   }
                 }
               ]
