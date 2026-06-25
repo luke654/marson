@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T07:58:28.992918Z",
+  "generated_at": "2026-06-25T07:59:47.559759Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -10,283 +10,381 @@
           "User": "12C22AD2-7740-46E9-9676-C051C9C6D674",
           "{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation": "http://feed.getrix.it/xml/feed_1_0_0.xsd"
         },
-        "Immobile": {
-          "@attributes": {
-            "IDImmobile": "193663991"
-          },
-          "CodiceNazione": {
-            "#text": "IT"
-          },
-          "CodiceComune": {
-            "#text": "012042"
-          },
-          "Comune": {
-            "#text": "Castellanza"
-          },
-          "Strada": {
+        "Immobile": [
+          {
             "@attributes": {
-              "IDStrada": "54"
+              "IDImmobile": "193663991"
             },
-            "#text": "via"
-          },
-          "Indirizzo": {
-            "#text": "Ponchiroli"
-          },
-          "PubblicaCivico": {
-            "#text": "false"
-          },
-          "Cap": {
-            "#text": "21053"
-          },
-          "PubblicaIndirizzo": {
-            "#text": "false"
-          },
-          "Latitudine": {
-            "#text": "45.61370087"
-          },
-          "Longitudine": {
-            "#text": "8.89710045"
-          },
-          "Zoom": {
-            "#text": "12"
-          },
-          "PubblicaMappa": {
-            "#text": "true"
-          },
-          "Categoria": {
-            "#text": "1"
-          },
-          "Contratto": {
-            "#text": "V"
-          },
-          "Tipologia": {
-            "@attributes": {
-              "IDTipologia": "1"
+            "CodiceNazione": {
+              "#text": "IT"
             },
-            "#text": "Appartamento"
-          },
-          "NrLocali": {
-            "#text": "2"
-          },
-          "Prezzo": {
-            "#text": "98000.0000"
-          },
-          "TrattativaRiservata": {
-            "#text": "false"
-          },
-          "MQSuperficie": {
-            "#text": "63"
-          },
-          "SpeseMensili": {
-            "#text": "150.0000"
-          },
-          "TipoSpese": {
-            "#text": "0"
-          },
-          "TipoProprieta": {
-            "#text": "1"
-          },
-          "DataInserimento": {
-            "#text": "2026-06-09T17:46:52"
-          },
-          "DataModifica": {
-            "#text": "2026-06-09T17:51:36"
-          },
-          "Descrizioni": {
-            "Descrizione": {
+            "CodiceComune": {
+              "#text": "012042"
+            },
+            "Comune": {
+              "#text": "Castellanza"
+            },
+            "Strada": {
               "@attributes": {
-                "Lingua": "IT"
+                "IDStrada": "54"
               },
-              "Titolo": {
-                "#text": "Due locali + servizi Castellanza Via Ponchiroli"
+              "#text": "via"
+            },
+            "Indirizzo": {
+              "#text": "Ponchiroli"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "21053"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "false"
+            },
+            "Latitudine": {
+              "#text": "45.61370087"
+            },
+            "Longitudine": {
+              "#text": "8.89710045"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "true"
+            },
+            "Categoria": {
+              "#text": "1"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "1"
               },
-              "Testo": {
-                "#text": "Castellanza in palazzina con servizio di portineria proponiamo ampio e luminoso appartamento composto da ingresso, soggiorno, cucina semiabitabile, camera, bagno e balcone. I serramenti sono stati recentemente sostituiti mentre l'appartamento è nelle condizioni originali. Libero subito, possibilità box"
-              },
-              "TestoBreve": {}
-            }
-          },
-          "Residenziale": {
-            "StatoImmobile": {
-              "#text": "1"
+              "#text": "Appartamento"
             },
-            "NrLivelli": {
-              "#text": "1"
-            },
-            "Piano": {
-              "#text": "4"
-            },
-            "PianiEdificio": {
-              "#text": "5"
-            },
-            "NrCamereLetto": {
-              "#text": "1"
-            },
-            "NrAltreCamere": {
-              "#text": "1"
-            },
-            "NrBagni": {
-              "#text": "1"
-            },
-            "Cucina": {
-              "#text": "4"
-            },
-            "NrBalconi": {
-              "#text": "1"
-            },
-            "NrAscensori": {
-              "#text": "1"
-            },
-            "BoxAuto": {
-              "#text": "255"
-            },
-            "Mansarda": {
-              "#text": "1"
-            },
-            "Portineria": {
-              "#text": "true"
-            },
-            "GiardinoPrivato": {
+            "NrLocali": {
               "#text": "2"
             },
-            "Riscaldamento": {
-              "#text": "2"
+            "Prezzo": {
+              "#text": "98000.0000"
             },
-            "Arredamento": {
-              "#text": "255"
+            "TrattativaRiservata": {
+              "#text": "false"
             },
-            "AnnoCostruzione": {
-              "#text": "1960"
+            "MQSuperficie": {
+              "#text": "63"
             },
-            "TipoCostruzione": {
-              "#text": "3"
+            "SpeseMensili": {
+              "#text": "150.0000"
             },
-            "StatoManutenzione": {
-              "#text": "2"
-            },
-            "StatoCostruzione": {
-              "#text": "2"
-            },
-            "CancelloElettrico": {
-              "#text": "true"
-            },
-            "VideoCitofono": {
-              "#text": "true"
-            },
-            "FibraOttica": {
-              "#text": "true"
-            },
-            "PortaBlindata": {
-              "#text": "true"
-            },
-            "ImpiantoTV": {
-              "#text": "1"
-            },
-            "LeggeClasseEnergetica": {
+            "TipoSpese": {
               "#text": "0"
             },
-            "ClasseEnergetica": {
-              "#text": "F"
+            "TipoProprieta": {
+              "#text": "1"
             },
-            "IPE": {
-              "#text": "187.45"
+            "DataInserimento": {
+              "#text": "2026-06-09T17:46:52"
+            },
+            "DataModifica": {
+              "#text": "2026-06-09T17:51:36"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "Due locali + servizi Castellanza Via Ponchiroli"
+                },
+                "Testo": {
+                  "#text": "Castellanza in palazzina con servizio di portineria proponiamo ampio e luminoso appartamento composto da ingresso, soggiorno, cucina semiabitabile, camera, bagno e balcone. I serramenti sono stati recentemente sostituiti mentre l'appartamento è nelle condizioni originali. Libero subito, possibilità box"
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Residenziale": {
+              "StatoImmobile": {
+                "#text": "1"
+              },
+              "NrLivelli": {
+                "#text": "1"
+              },
+              "Piano": {
+                "#text": "4"
+              },
+              "PianiEdificio": {
+                "#text": "5"
+              },
+              "NrCamereLetto": {
+                "#text": "1"
+              },
+              "NrAltreCamere": {
+                "#text": "1"
+              },
+              "NrBagni": {
+                "#text": "1"
+              },
+              "Cucina": {
+                "#text": "4"
+              },
+              "NrBalconi": {
+                "#text": "1"
+              },
+              "NrAscensori": {
+                "#text": "1"
+              },
+              "BoxAuto": {
+                "#text": "255"
+              },
+              "Mansarda": {
+                "#text": "1"
+              },
+              "Portineria": {
+                "#text": "true"
+              },
+              "GiardinoPrivato": {
+                "#text": "2"
+              },
+              "Riscaldamento": {
+                "#text": "2"
+              },
+              "Arredamento": {
+                "#text": "255"
+              },
+              "AnnoCostruzione": {
+                "#text": "1960"
+              },
+              "TipoCostruzione": {
+                "#text": "3"
+              },
+              "StatoManutenzione": {
+                "#text": "2"
+              },
+              "StatoCostruzione": {
+                "#text": "2"
+              },
+              "CancelloElettrico": {
+                "#text": "true"
+              },
+              "VideoCitofono": {
+                "#text": "true"
+              },
+              "FibraOttica": {
+                "#text": "true"
+              },
+              "PortaBlindata": {
+                "#text": "true"
+              },
+              "ImpiantoTV": {
+                "#text": "1"
+              },
+              "LeggeClasseEnergetica": {
+                "#text": "0"
+              },
+              "ClasseEnergetica": {
+                "#text": "F"
+              },
+              "IPE": {
+                "#text": "187.45"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "527369277",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129754428/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-09T15:50:03"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "527369278",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129754428/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-09T15:50:59"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "527369279",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129754428/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-09T15:51:06"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "527369280",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129754428/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-09T15:51:12"
+                  },
+                  "Titolo": {
+                    "#text": "Soggiorno"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "527369281",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129754428/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-09T15:51:19"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                }
+              ]
             }
           },
-          "Immagini": {
-            "Immagine": [
-              {
-                "@attributes": {
-                  "IDImmagine": "527369277",
-                  "Tipo": "F"
-                },
-                "URL": {
-                  "#text": "https://res.getrix.it/media/ad/129754428/1/m.jpg"
-                },
-                "DataModifica": {
-                  "#text": "2026-06-09T15:50:03"
-                },
-                "Titolo": {
-                  "#text": "Cucina"
-                },
-                "Posizione": {
-                  "#text": "1"
-                }
+          {
+            "@attributes": {
+              "IDImmobile": "193684601"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015046"
+            },
+            "Comune": {
+              "#text": "Canegrate"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "54"
               },
-              {
-                "@attributes": {
-                  "IDImmagine": "527369278",
-                  "Tipo": "F"
-                },
-                "URL": {
-                  "#text": "https://res.getrix.it/media/ad/129754428/2/m.jpg"
-                },
-                "DataModifica": {
-                  "#text": "2026-06-09T15:50:59"
-                },
-                "Titolo": {
-                  "#text": "Camera da letto"
-                },
-                "Posizione": {
-                  "#text": "2"
-                }
+              "#text": "via"
+            },
+            "Indirizzo": {
+              "#text": "Enrico Fermi"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20039"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "true"
+            },
+            "Latitudine": {
+              "#text": "45.57500076"
+            },
+            "Longitudine": {
+              "#text": "8.92640018"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "true"
+            },
+            "Categoria": {
+              "#text": "5"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "141"
               },
-              {
+              "#text": "Terreno edificabile"
+            },
+            "NrLocali": {
+              "#text": "0"
+            },
+            "Prezzo": {
+              "#text": "230000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "2035"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "DataInserimento": {
+              "#text": "2026-06-24T14:01:07"
+            },
+            "DataModifica": {
+              "#text": "2026-06-24T12:02:32"
+            },
+            "Descrizioni": {
+              "Descrizione": {
                 "@attributes": {
-                  "IDImmagine": "527369279",
-                  "Tipo": "F"
-                },
-                "URL": {
-                  "#text": "https://res.getrix.it/media/ad/129754428/3/m.jpg"
-                },
-                "DataModifica": {
-                  "#text": "2026-06-09T15:51:06"
+                  "Lingua": "IT"
                 },
                 "Titolo": {
-                  "#text": "Camera da letto"
+                  "#text": "Terreno edificabile"
                 },
-                "Posizione": {
-                  "#text": "3"
-                }
-              },
-              {
-                "@attributes": {
-                  "IDImmagine": "527369280",
-                  "Tipo": "F"
+                "Testo": {
+                  "#text": "Canegrate zona Tigros proponiamo terreno edificabile di 2035 mq . ideale x impresa e privati.Ottima zona servita .Per info 3355783441"
                 },
-                "URL": {
-                  "#text": "https://res.getrix.it/media/ad/129754428/4/m.jpg"
-                },
-                "DataModifica": {
-                  "#text": "2026-06-09T15:51:12"
-                },
-                "Titolo": {
-                  "#text": "Soggiorno"
-                },
-                "Posizione": {
-                  "#text": "4"
-                }
-              },
-              {
-                "@attributes": {
-                  "IDImmagine": "527369281",
-                  "Tipo": "F"
-                },
-                "URL": {
-                  "#text": "https://res.getrix.it/media/ad/129754428/5/m.jpg"
-                },
-                "DataModifica": {
-                  "#text": "2026-06-09T15:51:19"
-                },
-                "Titolo": {
-                  "#text": "Bagno"
-                },
-                "Posizione": {
-                  "#text": "5"
-                }
+                "TestoBreve": {}
               }
-            ]
+            },
+            "Terreno": {
+              "CostruzioneAbitativa": {
+                "#text": "true"
+              }
+            }
           }
-        }
+        ]
       }
     },
     "4C65360F-1CB5-43C6-BA1B-6448DEEF2529.xml": {
@@ -11416,6 +11514,320 @@
                   },
                   "Posizione": {
                     "#text": "25"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193684530"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015154"
+            },
+            "Comune": {
+              "#text": "Nerviano"
+            },
+            "Zona": {
+              "#text": "Centro"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "54"
+              },
+              "#text": "via"
+            },
+            "Indirizzo": {
+              "#text": "della Croce"
+            },
+            "Civico": {
+              "#text": "14"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20014"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "true"
+            },
+            "Latitudine": {
+              "#text": "45.55509949"
+            },
+            "Longitudine": {
+              "#text": "8.97469997"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "true"
+            },
+            "Categoria": {
+              "#text": "1"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "1"
+              },
+              "#text": "Appartamento"
+            },
+            "NrLocali": {
+              "#text": "3"
+            },
+            "Prezzo": {
+              "#text": "180000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "109"
+            },
+            "Riferimento": {
+              "#text": "NERVCROCE"
+            },
+            "SpeseMensili": {
+              "#text": "100.0000"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "TipoProprieta": {
+              "#text": "1"
+            },
+            "DataInserimento": {
+              "#text": "2026-06-24T12:30:56"
+            },
+            "DataModifica": {
+              "#text": "2026-06-24T12:37:47"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "TRILOCALE CON CANTINA E BOX, PIENO CENTRO!"
+                },
+                "Testo": {
+                  "#text": "IMMOBILIARE MARSON DI SAN VITTORE OLONA PROPONE IN VENDITA: Nerviano (MI), Via della Croce n.14 LIBERO DAL 01.07.2026 Nel cuore di Nerviano, a due passi dai principali servizi (negozi, scuole, farmacia, mezzi pubblici e supermercati), proponiamo appartamento trilocale situato al secondo piano senza ascensore, così composto: soggiorno, cucina abitabile, camera matrimoniale con cabina armadio, cameretta, bagno, due balconi e ripostiglio. La soluzione si presenta in buone condizioni, infissi in doppio vetro legno, aria condizionata presente. Riscaldamento autonomo. Basse spese condominiali. Completa la proprietà una cantina e ampio box singolo dove comodamente entra anche un Suv. NUOVO SITO!!!! https://marson.it/"
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Residenziale": {
+              "StatoImmobile": {
+                "#text": "1"
+              },
+              "NrLivelli": {
+                "#text": "1"
+              },
+              "Piano": {
+                "#text": "2"
+              },
+              "PianiEdificio": {
+                "#text": "2"
+              },
+              "NrCamereLetto": {
+                "#text": "2"
+              },
+              "NrAltreCamere": {
+                "#text": "1"
+              },
+              "NrBagni": {
+                "#text": "1"
+              },
+              "Cucina": {
+                "#text": "1"
+              },
+              "NrBalconi": {
+                "#text": "1"
+              },
+              "BoxAuto": {
+                "#text": "1"
+              },
+              "Cantina": {
+                "#text": "1"
+              },
+              "GiardinoCondominiale": {
+                "#text": "true"
+              },
+              "Riscaldamento": {
+                "#text": "1"
+              },
+              "CategoriaCatastale": {
+                "#text": "A/3"
+              },
+              "AnnoCostruzione": {
+                "#text": "1987"
+              },
+              "TipoCostruzione": {
+                "#text": "3"
+              },
+              "StatoManutenzione": {
+                "#text": "2"
+              },
+              "StatoCostruzione": {
+                "#text": "2"
+              },
+              "CancelloElettrico": {
+                "#text": "true"
+              },
+              "VideoCitofono": {
+                "#text": "true"
+              },
+              "PortaBlindata": {
+                "#text": "true"
+              },
+              "ImpiantoTV": {
+                "#text": "1"
+              },
+              "InfissiEsterni": {
+                "#text": "5"
+              },
+              "EsposizioneInterna": {
+                "#text": "true"
+              },
+              "LeggeClasseEnergetica": {
+                "#text": "0"
+              },
+              "InAttesaClasseEnergetica": {
+                "#text": "true"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "530013995",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130165532/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-24T10:37:24"
+                  },
+                  "Titolo": {
+                    "#text": "Giardino"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "530013994",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130165532/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-24T10:37:23"
+                  },
+                  "Titolo": {
+                    "#text": "Giardino"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "530013990",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130165532/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-24T10:37:19"
+                  },
+                  "Titolo": {
+                    "#text": "Terrazzo"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "530013991",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130165532/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-24T10:37:20"
+                  },
+                  "Titolo": {
+                    "#text": "Terrazzo"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "530013993",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130165532/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-24T10:37:22"
+                  },
+                  "Titolo": {
+                    "#text": "Box auto"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "530013992",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130165532/6/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-24T10:37:21"
+                  },
+                  "Titolo": {
+                    "#text": "Zona"
+                  },
+                  "Posizione": {
+                    "#text": "6"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "530013989",
+                    "Tipo": "P"
+                  },
+                  "URL": {
+                    "#text": "http://mediaserver.getrix.it/plan/129823894/print.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-06-24T10:37:41"
+                  },
+                  "Titolo": {},
+                  "Posizione": {
+                    "#text": "7"
                   }
                 }
               ]
@@ -95070,7 +95482,7 @@
               "#text": "2026-05-18T12:55:58"
             },
             "DataModifica": {
-              "#text": "2026-05-18T20:01:30"
+              "#text": "2026-06-24T13:52:07"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -95164,10 +95576,19 @@
                 "#text": "true"
               },
               "LeggeClasseEnergetica": {
-                "#text": "0"
+                "#text": "1"
               },
-              "InAttesaClasseEnergetica": {
-                "#text": "true"
+              "ClasseEnergetica": {
+                "#text": "C"
+              },
+              "IPE": {
+                "#text": "131.35"
+              },
+              "EdificioEnergiaEstate": {
+                "#text": "5"
+              },
+              "EdificioEnergiaInverno": {
+                "#text": "5"
               }
             },
             "Immagini": {
