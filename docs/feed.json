@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:05:33.009470Z",
+  "generated_at": "2026-07-22T07:08:29.726148Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -15747,7 +15747,7 @@
               "#text": "2026-07-07T18:30:55"
             },
             "DataModifica": {
-              "#text": "2026-07-07T23:05:43"
+              "#text": "2026-07-21T17:00:14"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -15769,24 +15769,206 @@
               }
             },
             "Immagini": {
-              "Immagine": {
-                "@attributes": {
-                  "IDImmagine": "532987110",
-                  "Tipo": "F"
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773639",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:55:58"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
                 },
-                "URL": {
-                  "#text": "https://res.getrix.it/media/ad/130719698/1/m.jpg"
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773640",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:56:01"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
                 },
-                "DataModifica": {
-                  "#text": "2026-07-07T23:03:11"
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773641",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:56:04"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
                 },
-                "Titolo": {
-                  "#text": "Mappa"
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773642",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:56:07"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
                 },
-                "Posizione": {
-                  "#text": "1"
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773643",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:56:11"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773644",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/6/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:56:18"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "6"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773645",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/7/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:56:25"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "7"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773646",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/8/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:56:27"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "8"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773647",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/9/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:56:30"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "9"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "532987110",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/10/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-07T23:03:11"
+                  },
+                  "Titolo": {
+                    "#text": "Mappa"
+                  },
+                  "Posizione": {
+                    "#text": "10"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535773648",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/130719698/11/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T16:59:18"
+                  },
+                  "Titolo": {
+                    "#text": "Mappa"
+                  },
+                  "Posizione": {
+                    "#text": "11"
+                  }
                 }
-              }
+              ]
             }
           },
           {
@@ -108242,6 +108424,579 @@
                   },
                   "Posizione": {
                     "#text": "38"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193719558"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015248"
+            },
+            "Comune": {
+              "#text": "Villa Cortese"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "34"
+              },
+              "#text": "piazza"
+            },
+            "Indirizzo": {
+              "#text": "Vittoria"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20035"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "true"
+            },
+            "Latitudine": {
+              "#text": "45.56529999"
+            },
+            "Longitudine": {
+              "#text": "8.88790035"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "true"
+            },
+            "Categoria": {
+              "#text": "1"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "1"
+              },
+              "#text": "Appartamento"
+            },
+            "NrLocali": {
+              "#text": "2"
+            },
+            "Prezzo": {
+              "#text": "109000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "60"
+            },
+            "Riferimento": {
+              "#text": "villa cortese"
+            },
+            "SpeseMensili": {
+              "#text": "60.0000"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "TipoProprieta": {
+              "#text": "1"
+            },
+            "DataInserimento": {
+              "#text": "2026-07-17T18:53:12"
+            },
+            "DataModifica": {
+              "#text": "2026-07-17T19:50:16"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {},
+                "Testo": {
+                  "#text": "Immobiliare Marson srl, propone in vendita a VILLA CORTESE centro - al piano rialzato di piccola palazzina, ottimo bilocale , cucina angolo cottura, camera matrimoniale, bagno e piccolo ripostiglio. Completa la soluzione la cantina al piano seminterrato e un box singolo. N.B. L'IMMOBILE E' GIA' OGGETTO DI PUBBLICAZIONE, APPENA L'APPARTAMENTO SARA' LIBERO PROVVEDERO' A EFFETTUARE IL SERVIZIO fOTOGRAFICO. libero a breve.!!!!!! per maggiori informazioni chiamare Luisella al 335 1333076 ."
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Residenziale": {
+              "NrLivelli": {
+                "#text": "1"
+              },
+              "PianoFuoriTerra": {
+                "#text": "4"
+              },
+              "PianiEdificio": {
+                "#text": "1"
+              },
+              "NrCamereLetto": {
+                "#text": "1"
+              },
+              "NrAltreCamere": {
+                "#text": "1"
+              },
+              "NrBagni": {
+                "#text": "1"
+              },
+              "Cucina": {
+                "#text": "2"
+              },
+              "BoxAuto": {
+                "#text": "1"
+              },
+              "Cantina": {
+                "#text": "1"
+              },
+              "GiardinoCondominiale": {
+                "#text": "true"
+              },
+              "Riscaldamento": {
+                "#text": "1"
+              },
+              "AnnoCostruzione": {
+                "#text": "2000"
+              },
+              "TipoCostruzione": {
+                "#text": "3"
+              },
+              "StatoManutenzione": {
+                "#text": "2"
+              },
+              "StatoCostruzione": {
+                "#text": "2"
+              },
+              "CancelloElettrico": {
+                "#text": "true"
+              },
+              "ImpiantoTV": {
+                "#text": "1"
+              },
+              "InfissiEsterni": {
+                "#text": "2"
+              },
+              "LeggeClasseEnergetica": {
+                "#text": "1"
+              },
+              "ClasseEnergetica": {
+                "#text": "C"
+              },
+              "IPE": {
+                "#text": "175.00"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "535152615",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131073260/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-17T17:33:22"
+                  },
+                  "Titolo": {
+                    "#text": "Planimetria"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535152618",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131073260/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-17T17:36:53"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535152616",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131073260/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-17T17:36:15"
+                  },
+                  "Titolo": {
+                    "#text": "Planimetria"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535152617",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131073260/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-17T17:36:32"
+                  },
+                  "Titolo": {
+                    "#text": "Planimetria"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193719568"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015144"
+            },
+            "Comune": {
+              "#text": "Mesero"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "54"
+              },
+              "#text": "via"
+            },
+            "Indirizzo": {
+              "#text": "John Fitzgerald Kennedy"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20010"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "false"
+            },
+            "Latitudine": {
+              "#text": "45.50329971"
+            },
+            "Longitudine": {
+              "#text": "8.84770012"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "false"
+            },
+            "Categoria": {
+              "#text": "5"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "141"
+              },
+              "#text": "Terreno edificabile"
+            },
+            "NrLocali": {
+              "#text": "0"
+            },
+            "Prezzo": {
+              "#text": "50000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "967"
+            },
+            "Riferimento": {
+              "#text": "GF Mesero"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "DataInserimento": {
+              "#text": "2026-07-20T17:43:49"
+            },
+            "DataModifica": {
+              "#text": "2026-07-21T11:14:46"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "TERRENO EDIFICABILE PER VILLA SINGOLA"
+                },
+                "Testo": {
+                  "#text": "Per maggiori informazioni contattare Gianfranco presso Immobiliare Marson Busto Garolfo ai numeri 327 008 5828 oppure 0331 122 6546. A Mesero proponiamo in vendita lotto di terreno edificabile di circa 950 mq. situato all'incrocio di due vie, con indice di edificabilità pari a 0,9 mc/mq ed altezza massima consentita di 9 metri. Il lotto di terreno presenta una forma particolare triangolare, con accesso da strada asfaltata e si trova ubicato in posizione comoda e ottimale per raggiungere i collegamenti della Superstrada Milano Malpensa e dell'accesso autostradale di Marcallo Mesero. SOLUZIONE IDEALE PER VILLETTA SINGOLA come da bozza di studio presente nelle foto che potrà essere successivamente approfondita e definita insieme al cliente durante la fase di progettazione sia nella forma esterna che nella disposizione interna dei locali. La villa potrà essere realizzata sia con tecnologia in BIOEDILIZIA sia con SISTEMA COSTRUTTIVO TRADIZIONALE, prevedendo una soluzione sviluppata su un unico livello oppure su due piani. Per maggiori informazioni contattare Gianfranco presso Immobiliare Marson Busto Garolfo ai numeri 327 008 5828 oppure 0331 122 6546."
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Terreno": {
+              "CostruzioneAbitativa": {
+                "#text": "true"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "535652624",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T11:03:11"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535481814",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-20T15:46:58"
+                  },
+                  "Titolo": {
+                    "#text": "Mappa"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535481819",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-20T15:47:42"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535481820",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-20T15:47:46"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535652626",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T11:03:17"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535652625",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/6/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T11:03:14"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "6"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535652627",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/7/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T11:03:43"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "7"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535481816",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/8/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-20T15:47:01"
+                  },
+                  "Titolo": {
+                    "#text": "Mappa"
+                  },
+                  "Posizione": {
+                    "#text": "8"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535652623",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/9/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-21T11:03:07"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "9"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535481821",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/10/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-20T15:47:49"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "10"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535481822",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/11/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-20T15:49:09"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "11"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535481818",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/131130888/12/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-20T15:47:39"
+                  },
+                  "Titolo": {
+                    "#text": "Terreno"
+                  },
+                  "Posizione": {
+                    "#text": "12"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "535481813",
+                    "Tipo": "P"
+                  },
+                  "URL": {
+                    "#text": "http://mediaserver.getrix.it/plan/131424048/print.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-07-20T15:58:39"
+                  },
+                  "Posizione": {
+                    "#text": "13"
                   }
                 }
               ]
