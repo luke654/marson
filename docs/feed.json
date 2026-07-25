@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T07:05:26.916138Z",
+  "generated_at": "2026-07-25T06:36:44.834559Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -18253,21 +18253,33 @@
               "#text": "2026-07-20T19:20:14"
             },
             "DataModifica": {
-              "#text": "2026-07-22T11:48:57"
+              "#text": "2026-07-24T13:32:45"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "Chiamare 329.4125299"
+                  },
+                  "Testo": {
+                    "#text": "PER APPUNTAMENTI O MAGGIORI INFORMAZIONI SCRIVERE SU WHATSAPP ALESSANDRO N. 329.4125299. LEGNANO - VIA G. BRUNO 2 LIBERO DA OTTOBRE 2026 In un contesto di fine anni 80', caratterizzato da poche famiglie, proponiamo in locazione, trilocale di mq 100 tenuto in ottimo stato e arredato (foto arredamento non ancora disponibili). La soluzione è così composta: ingresso, soggiorno, cucina abitabile (cucina ad induzione), disimpegno, due camere da letto, doppi servizi, terrazzo e balcone. REQUISITI FONDAMENTALI: persone serie e referenziate, no animali. Spese condominiali 100€/mese. Riscaldamento autonomo. Completa la proprietà un ampio box singolo. PER APPUNTAMENTI O MAGGIORI INFORMAZIONI SCRIVERE SU WHATSAPP ALESSANDRO N. 329.4125299."
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "TRILOCALE ARREDATO CON BOX SINGOLO!"
-                },
-                "Testo": {
-                  "#text": "TRILOCALE DI AMPIA METRATURA, DOPPI SERVIZI, ARREDATO CON BOX! PER APPUNTAMENTI O MAGGIORI INFORMAZIONI SCRIVERE SU WHATSAPP ALESSANDRO N. 329.4125299. LEGNANO - VIA G. BRUNO 2 LIBERO DA OTTOBRE 2026 In un contesto di fine anni 80', caratterizzato da poche famiglie, proponiamo in locazione, trilocale di mq 100 tenuto in ottimo stato e arredato (foto arredamento non ancora disponibili). La soluzione è così composta: ingresso, soggiorno, cucina abitabile (cucina ad induzione), disimpegno, due camere da letto, doppi servizi, terrazzo e balcone. REQUISITI FONDAMENTALI: persone serie e referenziate, no animali. Spese condominiali 100€/mese. Riscaldamento autonomo. Completa la proprietà un ampio box singolo. PER APPUNTAMENTI O MAGGIORI INFORMAZIONI SCRIVERE SU WHATSAPP ALESSANDRO N. 329.4125299."
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "RU"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "ДЛЯ ЗАПИСИ НА ПРОСМОТР ИЛИ ДЛЯ ПОЛУЧЕНИЯ БОЛЬШЕЙ ИНФОРМАЦИИ ПИШИТЕ В WHATSAPP АЛЕССАНДРО Н. 329.4125299. ----------ЛЕГНАНО - УЛ. Г. БРУНО 2 СВОБОДНО С ОКТЯБРЯ 2026 ГОДА В контексте конца 80-х годов, характеризующемся небольшим количеством семей, предлагаем в аренду трехкомнатную квартиру площадью 100 кв. м, находящуюся в отличном состоянии и меблированную (фото мебели пока недоступны). Помещение состоит из: прихожей, гостиной, кухни (кухня с индукционной плитой), коридора, двух спален, двух ванных комнат, террасы и балкона. ОСНОВНЫЕ ТРЕБОВАНИЯ: серьезные и рекомендованные люди, без животных. Коммунальные расходы 100€/месяц. Отопление автономное. В собственности имеется просторный отдельный гараж. ДЛЯ ЗАПИСИ НА ПРОСМОТР ИЛИ ДЛЯ ПОЛУЧЕНИЯ БОЛЬШЕЙ ИНФОРМАЦИИ ПИШИТЕ В WHATSAPP АЛЕССАНДРО Н. 329.4125299.--797a69fd1af59d5f6b1092a7b1926aa2!"
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Residenziale": {
               "NrLivelli": {
@@ -18673,251 +18685,6 @@
                   },
                   "Posizione": {
                     "#text": "18"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "@attributes": {
-              "IDImmobile": "193722450"
-            },
-            "CodiceNazione": {
-              "#text": "IT"
-            },
-            "CodiceComune": {
-              "#text": "015118"
-            },
-            "Comune": {
-              "#text": "Legnano"
-            },
-            "Zona": {
-              "#text": "Legnarello, Vecchio Ospedale, Sant'Erasmo"
-            },
-            "Strada": {
-              "@attributes": {
-                "IDStrada": "54"
-              },
-              "#text": "via"
-            },
-            "Indirizzo": {
-              "#text": "Barbara Melzi"
-            },
-            "PubblicaCivico": {
-              "#text": "false"
-            },
-            "Cap": {
-              "#text": "20025"
-            },
-            "PubblicaIndirizzo": {
-              "#text": "true"
-            },
-            "Latitudine": {
-              "#text": "45.59909821"
-            },
-            "Longitudine": {
-              "#text": "8.92339993"
-            },
-            "Zoom": {
-              "#text": "12"
-            },
-            "PubblicaMappa": {
-              "#text": "true"
-            },
-            "Categoria": {
-              "#text": "1"
-            },
-            "Contratto": {
-              "#text": "V"
-            },
-            "Tipologia": {
-              "@attributes": {
-                "IDTipologia": "1"
-              },
-              "#text": "Appartamento"
-            },
-            "NrLocali": {
-              "#text": "1"
-            },
-            "Prezzo": {
-              "#text": "24000.0000"
-            },
-            "TrattativaRiservata": {
-              "#text": "false"
-            },
-            "MQSuperficie": {
-              "#text": "27"
-            },
-            "Riferimento": {
-              "#text": "MELZIDIMITRI"
-            },
-            "TipoSpese": {
-              "#text": "0"
-            },
-            "TipoProprieta": {
-              "#text": "1"
-            },
-            "DataInserimento": {
-              "#text": "2026-07-23T19:55:09"
-            },
-            "DataModifica": {
-              "#text": "2026-07-23T20:24:49"
-            },
-            "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
-                },
-                "Titolo": {
-                  "#text": "MONOLOCALE IN CORTE SENZA SPESE, OTTIMA POSIZIONE!"
-                },
-                "Testo": {
-                  "#text": "IMMOBILIARE MARSON DI SAN VITTORE OLONA, VIA SEMPIONE 186, PROPONE IN VENDITA: LEGNANO (MI) – VIA MELZI. In posizione comoda e ben servita, a pochi minuti dal centro cittadino e dalla stazione ferroviaria, proponiamo in vendita un monolocale situato al primo piano di una piccola e graziosa corte, priva di spese condominiali. Nelle immediate vicinanze sono presenti supermercati, negozi di vicinato, scuole, fermate dell'autobus, farmacie, banche e tutti i principali servizi, rendendo l'immobile ideale sia come abitazione sia come investimento. L'immobile ha già destinazione abitativa (categoria catastale A/4), di 27 mq, è composto da un unico ampio locale con accesso tramite caratteristico ballatoio comune. L'immobile è completamente da ristrutturare e privo di impianti e di bagno, offrendo la possibilità di personalizzare gli spazi secondo le proprie esigenze. Libero subito, rappresenta un'ottima opportunità per chi è alla ricerca di un investimento a reddito o di una soluzione dal costo contenuto da valorizzare. Ottimo investimento!"
-                },
-                "TestoBreve": {}
-              }
-            },
-            "Residenziale": {
-              "StatoImmobile": {
-                "#text": "1"
-              },
-              "NrLivelli": {
-                "#text": "1"
-              },
-              "Piano": {
-                "#text": "1"
-              },
-              "PianiEdificio": {
-                "#text": "2"
-              },
-              "NrCamereLetto": {
-                "#text": "1"
-              },
-              "Cucina": {
-                "#text": "6"
-              },
-              "NrBalconi": {
-                "#text": "1"
-              },
-              "BoxAuto": {
-                "#text": "255"
-              },
-              "GiardinoCondominiale": {
-                "#text": "true"
-              },
-              "Riscaldamento": {
-                "#text": "255"
-              },
-              "Arredamento": {
-                "#text": "255"
-              },
-              "CategoriaCatastale": {
-                "#text": "A/4"
-              },
-              "AnnoCostruzione": {
-                "#text": "1950"
-              },
-              "TipoCostruzione": {
-                "#text": "1"
-              },
-              "StatoManutenzione": {
-                "#text": "5"
-              },
-              "StatoCostruzione": {
-                "#text": "5"
-              },
-              "CancelloElettrico": {
-                "#text": "true"
-              },
-              "InfissiEsterni": {
-                "#text": "2"
-              },
-              "EsposizioneInterna": {
-                "#text": "true"
-              },
-              "EsposizioneEsterna": {
-                "#text": "true"
-              },
-              "LeggeClasseEnergetica": {
-                "#text": "1"
-              },
-              "ClasseEnergetica": {
-                "#text": "G"
-              },
-              "IPE": {
-                "#text": "175.00"
-              }
-            },
-            "Immagini": {
-              "Immagine": [
-                {
-                  "@attributes": {
-                    "IDImmagine": "536114774",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131256808/1/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-07-23T18:02:02"
-                  },
-                  "Titolo": {
-                    "#text": "Camera da letto"
-                  },
-                  "Posizione": {
-                    "#text": "1"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "536114775",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131256808/2/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-07-23T18:02:03"
-                  },
-                  "Titolo": {
-                    "#text": "Cortile interno"
-                  },
-                  "Posizione": {
-                    "#text": "2"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "536114776",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131256808/3/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-07-23T18:02:04"
-                  },
-                  "Titolo": {
-                    "#text": "Balcone"
-                  },
-                  "Posizione": {
-                    "#text": "3"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "536114773",
-                    "Tipo": "P"
-                  },
-                  "URL": {
-                    "#text": "http://mediaserver.getrix.it/plan/131641416/print.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-07-23T18:02:37"
-                  },
-                  "Titolo": {},
-                  "Posizione": {
-                    "#text": "4"
                   }
                 }
               ]
@@ -68241,7 +68008,7 @@
               "#text": "2025-10-14T14:32:58"
             },
             "DataModifica": {
-              "#text": "2026-06-04T20:04:41"
+              "#text": "2026-07-24T18:59:07"
             },
             "Descrizioni": {
               "Descrizione": [
@@ -68253,7 +68020,7 @@
                     "#text": "Appartamento in Villa prezzo promozione!"
                   },
                   "Testo": {
-                    "#text": "Per informazioni; Edoardo 3898979155 o 0331-41300 immobiliare Marson ufficio di San giorgio su Legnano. RIBASSATA! Prezzo esposto SOLO per appuntamenti FISSATI dal 04 giugno al 20 giugno !! In zona tranquilla di sole villette nella frazione di Olcella, proponiamo appartamento in villa in ottimo stato con ampi spazi e finiture di pregio. La proprietà situata al piano terra è così suddivisa: ampio e luminoso soggiorno con tripla esposizione, cucina abitabile, bagno appena rifatto con doccia oversize, scaldasalviette e pavimento in gress, camera da letto con balcone, ampia e luminosa cameretta. Al piano seminterrato, taverna con cucina in muratura, locale caldaia e lavanderia. Esternamente si accede al box doppio in lunghezza e ad una zona lavanderia con doccia e bollitore a gas. Il giardino permette di trascorrere ore di convivialità con zona barbeque attrezzata. Possibilità di arredamento (cucina e cucina taverna, mobili per taverna). Aria Condizionata, caldaia a condensazione, pavimento in granito, Da visionare!! Libera al rogito. Per informazioni; Edoardo 3898979155 o 0331-41300 immobiliare Marson ufficio di San giorgio su Legnano."
+                    "#text": "Per informazioni; Edoardo 3898979155 o 0331-41300 immobiliare Marson ufficio di San giorgio su Legnano. RIBASSATA! Prezzo esposto SOLO per appuntamenti FISSATI fino al 04/08 !! In zona tranquilla di sole villette nella frazione di Olcella, proponiamo appartamento in villa in ottimo stato con ampi spazi e finiture di pregio. La proprietà situata al piano terra è così suddivisa: ampio e luminoso soggiorno con tripla esposizione, cucina abitabile, bagno appena rifatto con doccia oversize, scaldasalviette e pavimento in gress, camera da letto con balcone, ampia e luminosa cameretta. Al piano seminterrato, taverna con cucina in muratura, locale caldaia e lavanderia. Esternamente si accede al box doppio in lunghezza e ad una zona lavanderia con doccia e bollitore a gas. Il giardino permette di trascorrere ore di convivialità con zona barbeque attrezzata. Possibilità di arredamento (cucina e cucina taverna, mobili per taverna). Aria Condizionata, caldaia a condensazione, pavimento in granito, Da visionare!! Libera al rogito. Per informazioni; Edoardo 3898979155 o 0331-41300 immobiliare Marson ufficio di San giorgio su Legnano."
                   },
                   "TestoBreve": {}
                 },
@@ -101494,18 +101261,30 @@
               "#text": "2026-05-27T16:11:12"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "EN"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "For Information: Edoardo ***/******* or **/****** Real Estate Marson, office in Canegrate. In the heart of Arconate, we offer an entire courtyard to renovate with a large plot of land, good potential for the creation of new homes with private areas. The central area is close and convenient for all major services. Negotiable price, please inquire at ***/******* or **/******.--5546439a5303458d31c71efd80c977ba!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "Intera corte da ristrutturare Arconate centro"
-                },
-                "Testo": {
-                  "#text": "Per Informazioni: Edoardo 3898979155 o 0331-407358 Immobiliare Marson, ufficio di Canegrate. Nel cuore di Arconate, proponiamo intera corte da ristrutturare con ampio terreno, buona potenzialità per la creazione di nuove abitazioni con aree private. La zona centrale è vicina e comoda per tutti i principali servizi. Prezzo trattabile, chiedere info al 3898979155 o 0331-407358"
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "Intera corte da ristrutturare Arconate centro"
+                  },
+                  "Testo": {
+                    "#text": "Per Informazioni: Edoardo 3898979155 o 0331-407358 Immobiliare Marson, ufficio di Canegrate. Nel cuore di Arconate, proponiamo intera corte da ristrutturare con ampio terreno, buona potenzialità per la creazione di nuove abitazioni con aree private. La zona centrale è vicina e comoda per tutti i principali servizi. Prezzo trattabile, chiedere info al 3898979155 o 0331-407358"
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Residenziale": {
               "StatoImmobile": {
