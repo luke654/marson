@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-23T05:04:04.255539Z",
+  "generated_at": "2026-08-24T05:13:17.728965Z",
   "feeds": {},
   "errors": [
     {
       "url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
-      "error": "HTTPConnectionPool(host='feed.getrix.it', port=80): Read timed out. (read timeout=60)"
+      "error": "HTTPConnectionPool(host='feed.getrix.it', port=80): Max retries exceeded with url: /xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip (Caused by ConnectTimeoutError(<HTTPConnection(host='feed.getrix.it', port=80) at 0x7fd0e7feed80>, 'Connection to feed.getrix.it timed out. (connect timeout=60)'))"
     },
     {
       "url": "http://feed.getrix.it/xml/4C65360F-1CB5-43C6-BA1B-6448DEEF2529.zip",
-      "error": "HTTPConnectionPool(host='feed.getrix.it', port=80): Read timed out. (read timeout=60)"
+      "error": "HTTPConnectionPool(host='feed.getrix.it', port=80): Max retries exceeded with url: /xml/4C65360F-1CB5-43C6-BA1B-6448DEEF2529.zip (Caused by ConnectTimeoutError(<HTTPConnection(host='feed.getrix.it', port=80) at 0x7fd0e7882ea0>, 'Connection to feed.getrix.it timed out. (connect timeout=60)'))"
     },
     {
       "url": "http://feed.getrix.it/xml/45AD2DB4-A85B-4238-A537-35259EFAB356.zip",
-      "error": "HTTPConnectionPool(host='feed.getrix.it', port=80): Read timed out. (read timeout=60)"
+      "error": "HTTPConnectionPool(host='feed.getrix.it', port=80): Max retries exceeded with url: /xml/45AD2DB4-A85B-4238-A537-35259EFAB356.zip (Caused by ConnectTimeoutError(<HTTPConnection(host='feed.getrix.it', port=80) at 0x7fd0e7e564e0>, 'Connection to feed.getrix.it timed out. (connect timeout=60)'))"
     }
   ]
 }
