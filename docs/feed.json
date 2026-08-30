@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T11:17:06.788216Z",
+  "generated_at": "2026-08-30T10:02:04.332775Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -1532,7 +1532,7 @@
               "#text": "5"
             },
             "Prezzo": {
-              "#text": "425000.0000"
+              "#text": "400000.0000"
             },
             "TrattativaRiservata": {
               "#text": "false"
@@ -1553,7 +1553,7 @@
               "#text": "2026-04-23T00:03:12"
             },
             "DataModifica": {
-              "#text": "2026-06-09T12:54:01"
+              "#text": "2026-08-29T10:13:38"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -1662,11 +1662,29 @@
               "Immagine": [
                 {
                   "@attributes": {
-                    "IDImmagine": "527415357",
+                    "IDImmagine": "519789277",
                     "Tipo": "F"
                   },
                   "URL": {
                     "#text": "https://res.getrix.it/media/ad/128497724/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-04-23T00:09:51"
+                  },
+                  "Titolo": {
+                    "#text": "Giardino"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "527415357",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128497724/2/m.jpg"
                   },
                   "DataModifica": {
                     "#text": "2026-04-23T00:20:16"
@@ -1675,7 +1693,7 @@
                     "#text": "Zona"
                   },
                   "Posizione": {
-                    "#text": "1"
+                    "#text": "2"
                   }
                 },
                 {
@@ -1684,28 +1702,10 @@
                     "Tipo": "F"
                   },
                   "URL": {
-                    "#text": "https://res.getrix.it/media/ad/128497724/2/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-04-23T00:09:44"
-                  },
-                  "Titolo": {
-                    "#text": "Giardino"
-                  },
-                  "Posizione": {
-                    "#text": "2"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "519789277",
-                    "Tipo": "F"
-                  },
-                  "URL": {
                     "#text": "https://res.getrix.it/media/ad/128497724/3/m.jpg"
                   },
                   "DataModifica": {
-                    "#text": "2026-04-23T00:09:51"
+                    "#text": "2026-04-23T00:09:44"
                   },
                   "Titolo": {
                     "#text": "Giardino"
