@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T08:28:55.985691Z",
+  "generated_at": "2026-09-06T08:45:50.528804Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -51279,18 +51279,30 @@
               "#text": "2026-08-28T14:19:04"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "FR"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "POUR DES RENDEZ-VOUS ET PLUS D'INFORMATIONS, APPELEZ ALESSANDRO AU N° 329.4125299. IMMOBILIARE MARSON Via Sempione 186 – San Vittore Olona, propose à la location : Castellanza (VA), Via Asti 2. LIBRE À PARTIR DE SEPTEMBRE ! À quelques pas du métro et à la frontière de Busto Arsizio, dans un immeuble moderne construit en 2018, nous proposons à la location un élégant appartement de deux pièces d'environ 60 m², entièrement meublé, idéal pour ceux qui recherchent confort, efficacité énergétique et espaces bien organisés. L'appartement se compose d'un lumineux salon avec cuisine ouverte équipée d'une plaque de cuisson à induction, d'un couloir, d'une chambre matrimoniale, d'une salle de bain et d'une magnifique terrasse, parfaite pour passer de agréables moments à l'extérieur. L'immeuble est équipé de chauffage au sol, de climatisation et est classé en Classe Énergétique A, garantissant une économie d'énergie élevée et un confort de vie maximal. La propriété comprend également un garage pratique. Charges de copropriété : 100 € par mois, comprenant le chauffage et la consommation d'eau. Une solution moderne et prête à emménager, idéale pour les célibataires ou les couples.--c6c4e70b04bf40efe74ea8a9a55642ad!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "BILOCALE ARREDATO IN CLASSE A!"
-                },
-                "Testo": {
-                  "#text": "PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE ALESSANDRO N° 329.4125299. IMMOBILIARE MARSON Via Sempione 186 – San Vittore Olona, Propone in locazione: Castellanza (VA), Via Asti 2. LIBERO DA SETTEMBRE! A pochi passi dalla Metro e ai confini con Busto Arsizio, in una moderna palazzina edificata nel 2018, proponiamo in locazione un elegante bilocale di circa 60 mq, completamente arredato, ideale per chi desidera comfort, efficienza energetica e spazi ben organizzati. L’appartamento è composto da un luminoso soggiorno con cucina a vista dotata di piano cottura a induzione, disimpegno, camera matrimoniale, bagno e uno splendido terrazzo, perfetto per trascorrere piacevoli momenti all’aperto. L’immobile è rifinito con riscaldamento a pavimento, aria condizionata e si trova in Classe Energetica A, garanzia di elevato risparmio energetico e massimo comfort abitativo. Completa la proprietà un comodo box auto. Spese condominiali: €100 al mese, comprensive di riscaldamento e consumo dell’acqua. Una soluzione moderna e pronta da abitare, ideale per single o coppie."
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "BILOCALE ARREDATO IN CLASSE A!"
+                  },
+                  "Testo": {
+                    "#text": "PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE ALESSANDRO N° 329.4125299. IMMOBILIARE MARSON Via Sempione 186 – San Vittore Olona, Propone in locazione: Castellanza (VA), Via Asti 2. LIBERO DA SETTEMBRE! A pochi passi dalla Metro e ai confini con Busto Arsizio, in una moderna palazzina edificata nel 2018, proponiamo in locazione un elegante bilocale di circa 60 mq, completamente arredato, ideale per chi desidera comfort, efficienza energetica e spazi ben organizzati. L’appartamento è composto da un luminoso soggiorno con cucina a vista dotata di piano cottura a induzione, disimpegno, camera matrimoniale, bagno e uno splendido terrazzo, perfetto per trascorrere piacevoli momenti all’aperto. L’immobile è rifinito con riscaldamento a pavimento, aria condizionata e si trova in Classe Energetica A, garanzia di elevato risparmio energetico e massimo comfort abitativo. Completa la proprietà un comodo box auto. Spese condominiali: €100 al mese, comprensive di riscaldamento e consumo dell’acqua. Una soluzione moderna e pronta da abitare, ideale per single o coppie."
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Residenziale": {
               "NrLivelli": {
@@ -55397,7 +55409,6 @@
                   "DataModifica": {
                     "#text": "2026-09-04T16:23:28"
                   },
-                  "Titolo": {},
                   "Posizione": {
                     "#text": "15"
                   }
@@ -147864,7 +147875,6 @@
                   "DataModifica": {
                     "#text": "2026-09-01T18:16:28"
                   },
-                  "Titolo": {},
                   "Posizione": {
                     "#text": "34"
                   }
