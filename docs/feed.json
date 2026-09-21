@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:23:16.279427Z",
+  "generated_at": "2026-09-21T10:07:11.942621Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -2215,18 +2215,30 @@
               "#text": "2026-03-05T18:18:57"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "OTTIMO NEGOZIO IN VENDITA CON DUE VETRINE AFFITTO A RISCATTO"
+                  },
+                  "Testo": {
+                    "#text": "POSSIBILITA' DI AFFITTO A RISCATTO! LIBERO SUBITO ! San Vittore Olona (MI), Via Magenta 15. Vicino al centro, proponiamo in vendita negozio in ottimo stato, con due vetrine, grande antibagno (utilizzabile anche come deposito) e bagno. Il negozio è inoltre dotato di cantina al piano interrato. Il negozio è situato in una posizione di forte passaggio vicino al Corso Sempione, a 2.5 Km dall'uscita autostrada Legnano. Nelle vicinanze ci sono scuole ed altre attività commerciali. POSSIBILITA' DI ACQUISTO DI NEGOZIO ADIACENTE DI 45 MQ; SI RICAVEREBBE COSì UN BELLISSIMO NEGOZIO DI TRE VETRINE TOTALI SU STRADA E COMPOSTO DA 3 LOCALI CON DOPPI SERVIZI (COLLEGAMENTO TRA I NEGOZI GIA' ESISTENTE). L'immobile si presta oltre come negozio, anche come ufficio o studio. Impianto di climatizzazione. Riscaldamento autonomo. Doppio ingresso blindato."
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "OTTIMO NEGOZIO IN VENDITA CON DUE VETRINE AFFITTO A RISCATTO"
-                },
-                "Testo": {
-                  "#text": "POSSIBILITA' DI AFFITTO A RISCATTO! LIBERO SUBITO ! San Vittore Olona (MI), Via Magenta 15. Vicino al centro, proponiamo in vendita negozio in ottimo stato, con due vetrine, grande antibagno (utilizzabile anche come deposito) e bagno. Il negozio è inoltre dotato di cantina al piano interrato. Il negozio è situato in una posizione di forte passaggio vicino al Corso Sempione, a 2.5 Km dall'uscita autostrada Legnano. Nelle vicinanze ci sono scuole ed altre attività commerciali. POSSIBILITA' DI ACQUISTO DI NEGOZIO ADIACENTE DI 45 MQ; SI RICAVEREBBE COSì UN BELLISSIMO NEGOZIO DI TRE VETRINE TOTALI SU STRADA E COMPOSTO DA 3 LOCALI CON DOPPI SERVIZI (COLLEGAMENTO TRA I NEGOZI GIA' ESISTENTE). L'immobile si presta oltre come negozio, anche come ufficio o studio. Impianto di climatizzazione. Riscaldamento autonomo. Doppio ingresso blindato."
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "RU"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "Возможность аренды с выкупом! Свободно немедленно! Сан Витторе Олонa (МИ), Виа Маджента 15. Рядом с центром, предлагаем на продажу магазин в отличном состоянии, с двумя витринами, большим предбанником (также используемым как склад) и туалетом. Магазин также оборудован подвалом на нижнем этаже. Магазин расположен в месте с высоким трафиком рядом с Корсо Семпьоне, в 2,5 км от выезда с автомагистрали Легнано. В окрестностях есть школы и другие коммерческие заведения. Возможность покупки соседнего магазина площадью 45 кв. м; таким образом, получится великолепный магазин с тремя витринами на улице и состоящий из 3 помещений с двумя санузлами (существует соединение между магазинами). Недвижимость подходит не только для магазина, но и для офиса или студии. Система кондиционирования. Автономное отопление. Двойной бронированный вход.--db614d44c5252274214412b1edc55429!"
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Commerciale": {
               "TipologiaUso": {
@@ -54252,6 +54264,192 @@
                 }
               }
             }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193772384"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015154"
+            },
+            "Comune": {
+              "#text": "Nerviano"
+            },
+            "Zona": {
+              "#text": "Centro"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "54"
+              },
+              "#text": "via"
+            },
+            "Indirizzo": {
+              "#text": "Enrico Toti"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20014"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "true"
+            },
+            "Latitudine": {
+              "#text": "45.55690002"
+            },
+            "Longitudine": {
+              "#text": "8.98019981"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "false"
+            },
+            "Categoria": {
+              "#text": "1"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "3"
+              },
+              "#text": "Villa"
+            },
+            "NrLocali": {
+              "#text": "3"
+            },
+            "Prezzo": {
+              "#text": "415000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "232"
+            },
+            "Riferimento": {
+              "#text": "DIMINEROLTRESEMPIONE"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "TipoProprieta": {
+              "#text": "1"
+            },
+            "DataInserimento": {
+              "#text": "2026-09-20T07:28:32"
+            },
+            "DataModifica": {
+              "#text": "2026-09-20T07:31:50"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "Villa singola bifamiliare completamente ristrutturata"
+                },
+                "Testo": {
+                  "#text": "Nerviano – Zona Betulle In una tranquilla e apprezzata area residenziale del comune di Nerviano, proponiamo in vendita splendida villa singola recentemente ristrutturata, caratterizzata da ampi spazi interni ed esterni e da ottime condizioni generali. La parte abitativa si sviluppa interamente su un unico livello ed è composta da un ampio e luminoso soggiorno, una cucina abitabile e una comoda sala da pranzo. Un disimpegno conduce alla zona notte, dove troviamo due camere da letto, un bagno padronale con vasca idromassaggio, un secondo bagno di servizio e una spaziosa cabina armadio. Al piano seminterrato, collegato all'abitazione sia internamente sia attraverso un ingresso indipendente, si trova una grande taverna rifinita con camino, cucina abitabile, area soggiorno/hobby, camera da letto e ampio bagno. Il piano seminterrato è molto luminoso e mantenuto in condizioni analoghe a quelle dell'abitazione principale, ideale come spazio conviviale o per molteplici esigenze. Completano la proprietà un ampio box di 51 mq e un giardino privato di circa 500 mq, in parte pavimentato e in parte destinato a verde, con la presenza di alberi secolari e con recinzione in acciaio inox. Una soluzione particolarmente interessante per chi desidera indipendenza, ampi spazi e tranquillità, senza rinunciare alla comodità dei principali servizi, raggiungibili nelle immediate vicinanze, tra negozi e collegamenti di trasporto. Da vedere."
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Residenziale": {
+              "StatoImmobile": {
+                "#text": "1"
+              },
+              "NrLivelli": {
+                "#text": "2"
+              },
+              "PianiEdificio": {
+                "#text": "2"
+              },
+              "NrCamereLetto": {
+                "#text": "2"
+              },
+              "NrAltreCamere": {
+                "#text": "1"
+              },
+              "NrBagni": {
+                "#text": "3"
+              },
+              "Cucina": {
+                "#text": "1"
+              },
+              "NrBalconi": {
+                "#text": "1"
+              },
+              "BoxAuto": {
+                "#text": "2"
+              },
+              "Taverna": {
+                "#text": "1"
+              },
+              "GiardinoPrivato": {
+                "#text": "1"
+              },
+              "Riscaldamento": {
+                "#text": "1"
+              },
+              "Arredamento": {
+                "#text": "1"
+              },
+              "AnnoCostruzione": {
+                "#text": "2011"
+              },
+              "TipoCostruzione": {
+                "#text": "4"
+              },
+              "StatoManutenzione": {
+                "#text": "6"
+              },
+              "StatoCostruzione": {
+                "#text": "6"
+              },
+              "CancelloElettrico": {
+                "#text": "true"
+              },
+              "VideoCitofono": {
+                "#text": "true"
+              },
+              "Idromassaggio": {
+                "#text": "true"
+              },
+              "Caminetto": {
+                "#text": "true"
+              },
+              "FibraOttica": {
+                "#text": "true"
+              },
+              "PortaBlindata": {
+                "#text": "true"
+              },
+              "InfissiEsterni": {
+                "#text": "6"
+              },
+              "EsposizioneInterna": {
+                "#text": "true"
+              },
+              "EsposizioneEsterna": {
+                "#text": "true"
+              },
+              "LeggeClasseEnergetica": {
+                "#text": "0"
+              },
+              "InAttesaClasseEnergetica": {
+                "#text": "true"
+              }
+            }
           }
         ]
       }
@@ -101094,7 +101292,7 @@
                   "Lingua": "IT"
                 },
                 "Titolo": {
-                  "#text": "ELENGANTE TRILOCALE CON BOX"
+                  "#text": "ELEGANTE TRILOCALE CON BOX"
                 },
                 "Testo": {
                   "#text": "Per informazioni contattare FLAVIANA presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300 LEGNANO - In zona semi centrale, in contesto signorile e curato, proponiamo ampio e luminoso trilocale posto al quinto piano con ascensore. L'appartamento è composto da comodo ingresso da cui si accede alla cucina abitabile separata dalla sala con accesso al terrazzino e al balcone. Proseguendo dall'ingresso si entra nella zona notte in cui troviamo disimpegno con ripostiglio e armadio a muro, una cameretta con accesso al balcone, camera matrimoniale con balcone e condizionatore e servizi. L'appartamento è completamente arredato, con serramenti di alta qualità in legno e doppio vetro. Box e cantina inclusi nel prezzo. LIBERO SUBITO!! Merita visione! Per informazioni contattare FLAVIANA presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300"
