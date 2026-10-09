@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T11:31:17.639046Z",
+  "generated_at": "2026-10-09T11:26:41.762570Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -44637,526 +44637,6 @@
           },
           {
             "@attributes": {
-              "IDImmobile": "193734257"
-            },
-            "CodiceNazione": {
-              "#text": "IT"
-            },
-            "CodiceComune": {
-              "#text": "015118"
-            },
-            "Comune": {
-              "#text": "Legnano"
-            },
-            "Zona": {
-              "#text": "Frati, San Martino"
-            },
-            "Strada": {
-              "@attributes": {
-                "IDStrada": "54"
-              },
-              "#text": "via"
-            },
-            "Indirizzo": {
-              "#text": "Padre Reginaldo Giuliani"
-            },
-            "PubblicaCivico": {
-              "#text": "false"
-            },
-            "Cap": {
-              "#text": "20025"
-            },
-            "PubblicaIndirizzo": {
-              "#text": "true"
-            },
-            "Latitudine": {
-              "#text": "45.60540009"
-            },
-            "Longitudine": {
-              "#text": "8.91499996"
-            },
-            "Zoom": {
-              "#text": "12"
-            },
-            "PubblicaMappa": {
-              "#text": "true"
-            },
-            "Categoria": {
-              "#text": "1"
-            },
-            "Contratto": {
-              "#text": "V"
-            },
-            "Tipologia": {
-              "@attributes": {
-                "IDTipologia": "1"
-              },
-              "#text": "Appartamento"
-            },
-            "NrLocali": {
-              "#text": "3"
-            },
-            "Prezzo": {
-              "#text": "169000.0000"
-            },
-            "TrattativaRiservata": {
-              "#text": "false"
-            },
-            "MQSuperficie": {
-              "#text": "88"
-            },
-            "Riferimento": {
-              "#text": "3PADREREGINALDO"
-            },
-            "SpeseMensili": {
-              "#text": "100.0000"
-            },
-            "TipoSpese": {
-              "#text": "0"
-            },
-            "TipoProprieta": {
-              "#text": "1"
-            },
-            "DataInserimento": {
-              "#text": "2026-08-03T16:58:12"
-            },
-            "DataModifica": {
-              "#text": "2026-09-25T13:29:17"
-            },
-            "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
-                },
-                "Titolo": {
-                  "#text": "TRILOCALE DOPPI SERVIZI, RISTRUTTURATO, CLASSE A!"
-                },
-                "Testo": {
-                  "#text": "PER APPUNTAMENTI, CONTATTARE ALESSANDRO 329.4125299 IMMOBILIARE MARSON DI SAN VITTORE OLONA PROPONE IN VENDITA: Legnano (MI), Via Padre Reginaldo Giuliani LIBERO AL ROGITO!!! In una zona tranquilla e ben servita, proponiamo in vendita uno splendido appartamento di 3 locali completamente ristrutturato, situato al secondo piano di una palazzina senza ascensore. L’abitazione si distingue per gli ambienti luminosi e ben distribuiti ed è composta da un’accogliente zona giorno con cucina a vista, due ampie camere da letto, doppi servizi, un comodo balcone e un’ampia cantina al piano seminterrato. L’immobile è stato totalmente ristrutturato alcuni anni fa con materiali di qualità e si presenta in ottime condizioni, pronto per essere abitato. È dotato di caldaia a condensazione, aria condizionata e finiture moderne che garantiscono comfort ed efficienza energetica. Un importante valore aggiunto è rappresentato dal fatto che l’appartamento viene venduto completo di arredamento, ideale per chi desidera entrare in casa senza dover sostenere ulteriori spese. Immobile in classe A, infissi triplo vetro PVC e cappotto esterno; le basse spese condominiali rendono questa soluzione ancora più interessante, sia come abitazione principale sia come investimento. Tapparelle motorizzate. Una casa pronta da vivere, curata in ogni dettaglio e situata in una posizione comoda per raggiungere i principali servizi, scuole, negozi e collegamenti. Contattaci per maggiori informazioni o per fissare una visita."
-                },
-                "TestoBreve": {}
-              }
-            },
-            "Residenziale": {
-              "NrLivelli": {
-                "#text": "1"
-              },
-              "Piano": {
-                "#text": "2"
-              },
-              "PianiEdificio": {
-                "#text": "3"
-              },
-              "NrCamereLetto": {
-                "#text": "2"
-              },
-              "NrAltreCamere": {
-                "#text": "1"
-              },
-              "NrBagni": {
-                "#text": "2"
-              },
-              "Cucina": {
-                "#text": "6"
-              },
-              "NrBalconi": {
-                "#text": "1"
-              },
-              "Cantina": {
-                "#text": "1"
-              },
-              "GiardinoCondominiale": {
-                "#text": "true"
-              },
-              "Riscaldamento": {
-                "#text": "1"
-              },
-              "Arredamento": {
-                "#text": "2"
-              },
-              "CategoriaCatastale": {
-                "#text": "A/3"
-              },
-              "AnnoCostruzione": {
-                "#text": "1970"
-              },
-              "TipoCostruzione": {
-                "#text": "4"
-              },
-              "StatoManutenzione": {
-                "#text": "6"
-              },
-              "StatoCostruzione": {
-                "#text": "6"
-              },
-              "FibraOttica": {
-                "#text": "true"
-              },
-              "PortaBlindata": {
-                "#text": "true"
-              },
-              "ImpiantoTV": {
-                "#text": "1"
-              },
-              "EsposizioneEsterna": {
-                "#text": "true"
-              },
-              "LeggeClasseEnergetica": {
-                "#text": "0"
-              },
-              "ClasseEnergetica": {
-                "#text": "A+"
-              },
-              "IPE": {
-                "#text": "175.00"
-              }
-            },
-            "Immagini": {
-              "Immagine": [
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039610",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/1/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:21"
-                  },
-                  "Titolo": {
-                    "#text": "Salone"
-                  },
-                  "Posizione": {
-                    "#text": "1"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039614",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/2/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:29"
-                  },
-                  "Titolo": {
-                    "#text": "Facciata"
-                  },
-                  "Posizione": {
-                    "#text": "2"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039609",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/3/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:20"
-                  },
-                  "Titolo": {
-                    "#text": "Cucina"
-                  },
-                  "Posizione": {
-                    "#text": "3"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039611",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/4/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:23"
-                  },
-                  "Titolo": {
-                    "#text": "Salone"
-                  },
-                  "Posizione": {
-                    "#text": "4"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039606",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/5/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:15"
-                  },
-                  "Titolo": {
-                    "#text": "Cucina"
-                  },
-                  "Posizione": {
-                    "#text": "5"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039613",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/6/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:26"
-                  },
-                  "Titolo": {
-                    "#text": "Interno non residenziale"
-                  },
-                  "Posizione": {
-                    "#text": "6"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039608",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/7/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:18"
-                  },
-                  "Titolo": {
-                    "#text": "Camera da letto"
-                  },
-                  "Posizione": {
-                    "#text": "7"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039607",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/8/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:16"
-                  },
-                  "Titolo": {
-                    "#text": "Camera da letto"
-                  },
-                  "Posizione": {
-                    "#text": "8"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039600",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/9/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:08"
-                  },
-                  "Titolo": {
-                    "#text": "Vista"
-                  },
-                  "Posizione": {
-                    "#text": "9"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039603",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/10/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:11"
-                  },
-                  "Titolo": {
-                    "#text": "Disimpegno"
-                  },
-                  "Posizione": {
-                    "#text": "10"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039598",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/11/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:05"
-                  },
-                  "Titolo": {
-                    "#text": "Camera da letto"
-                  },
-                  "Posizione": {
-                    "#text": "11"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039599",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/12/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:07"
-                  },
-                  "Titolo": {
-                    "#text": "Camera da letto"
-                  },
-                  "Posizione": {
-                    "#text": "12"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039605",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/13/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:14"
-                  },
-                  "Titolo": {
-                    "#text": "Bagno"
-                  },
-                  "Posizione": {
-                    "#text": "13"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039604",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/14/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:12"
-                  },
-                  "Titolo": {
-                    "#text": "Bagno"
-                  },
-                  "Posizione": {
-                    "#text": "14"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039612",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/15/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:24"
-                  },
-                  "Titolo": {
-                    "#text": "Terrazzo"
-                  },
-                  "Posizione": {
-                    "#text": "15"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039601",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/16/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:09"
-                  },
-                  "Titolo": {
-                    "#text": "Bagno"
-                  },
-                  "Posizione": {
-                    "#text": "16"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039602",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/17/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:10"
-                  },
-                  "Titolo": {
-                    "#text": "Bagno"
-                  },
-                  "Posizione": {
-                    "#text": "17"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039615",
-                    "Tipo": "F"
-                  },
-                  "URL": {
-                    "#text": "https://res.getrix.it/media/ad/131506804/18/m.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T14:59:30"
-                  },
-                  "Titolo": {
-                    "#text": "Facciata"
-                  },
-                  "Posizione": {
-                    "#text": "18"
-                  }
-                },
-                {
-                  "@attributes": {
-                    "IDImmagine": "538039597",
-                    "Tipo": "P"
-                  },
-                  "URL": {
-                    "#text": "http://mediaserver.getrix.it/plan/132096878/print.jpg"
-                  },
-                  "DataModifica": {
-                    "#text": "2026-08-03T15:01:29"
-                  },
-                  "Posizione": {
-                    "#text": "19"
-                  }
-                }
-              ]
-            }
-          },
-          {
-            "@attributes": {
               "IDImmobile": "193748811"
             },
             "CodiceNazione": {
@@ -52989,7 +52469,7 @@
               "#text": "2026-09-30T01:22:36"
             },
             "DataModifica": {
-              "#text": "2026-09-30T02:02:39"
+              "#text": "2026-10-08T12:33:32"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -52997,10 +52477,10 @@
                   "Lingua": "IT"
                 },
                 "Titolo": {
-                  "#text": "AMPIO DUE LOCALI CON BOX E CANTINA, LIBERO SUBITO!"
+                  "#text": "AMPIO DUE LOCALI CON BOX E SOLAIO, LIBERO SUBITO!"
                 },
                 "Testo": {
-                  "#text": "LEGNANO – VIA CARLO PORTA 91, AMPIO BILOCALE DI 83 MQ CON GRANDE BALCONE, BOX E CANTINA PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE IVAN AL 335-1333080 LIBERO SUBITO! In posizione comoda e ben servita, proponiamo in vendita ampio appartamento bilocale situato al primo piano con ascensore di un condominio ben tenutoe con verde condominiale. L’abitazione si distingue subito per gli spazi generosi e soprattutto per lo splendido balcone sul quale affacciano tutti i locali della casa: una caratteristica che regala grande luminosità, ariosità e continuità tra gli ambienti interni ed esterni. Il balcone, in parte coperto, offre inoltre uno spazio piacevole e realmente sfruttabile anche per pranzare o cenare all’aperto durante la bella stagione. L’appartamento è composto da ingresso blindato, cucina abitabile, ampio soggiorno, camera matrimoniale, bagno e comodo ripostiglio. Completano la proprietà una cantina e un box auto di comode dimensioni. La soluzione, qualora fosse di interesse dell’acquirente, può essere consegnata completa degli arredi presenti nelle fotografie, già compresi nel prezzo, rendendola quindi immediatamente abitabile. Via Carlo Porta si trova in una zona di Legnano particolarmente pratica per la vita quotidiana, con negozi, supermercati, farmacie, scuole e servizi facilmente raggiungibili; la posizione consente inoltre un agevole collegamento con il centro cittadino e con le principali vie di comunicazione. Nella zona risultano presenti diversi servizi di prossimità e istituti scolastici. Una soluzione ideale per chi cerca un bilocale dalle metrature decisamente superiori alla media, luminoso, completo di balcone vivibile, box e cantina e disponibile senza tempi di attesa."
+                  "#text": "LEGNANO – VIA CARLO PORTA 91, AMPIO BILOCALE DI 83 MQ CON GRANDE BALCONE, BOX E CANTINA PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE IVAN AL 335-1333080 LIBERO SUBITO! In posizione comoda e ben servita, proponiamo in vendita ampio appartamento bilocale situato al primo piano con ascensore di un condominio ben tenuto e con verde condominiale. L’abitazione si distingue subito per gli spazi generosi e soprattutto per lo splendido balcone sul quale affacciano tutti i locali della casa: una caratteristica che regala grande luminosità, ariosità e continuità tra gli ambienti interni ed esterni. Il balcone, in parte coperto, offre inoltre uno spazio piacevole e realmente sfruttabile anche per pranzare o cenare all’aperto durante la bella stagione. L’appartamento è composto da ingresso blindato, cucina abitabile, ampio soggiorno, camera matrimoniale, bagno e comodo ripostiglio. Completano la proprietà un solaio e un box auto di comode dimensioni. La soluzione, qualora fosse di interesse dell’acquirente, può essere consegnata completa degli arredi presenti nelle fotografie, già compresi nel prezzo, rendendola quindi immediatamente abitabile. Via Carlo Porta si trova in una zona di Legnano particolarmente pratica per la vita quotidiana, con negozi, supermercati, farmacie, scuole e servizi facilmente raggiungibili; la posizione consente inoltre un agevole collegamento con il centro cittadino e con le principali vie di comunicazione. Nella zona risultano presenti diversi servizi di prossimità e istituti scolastici. Caldaia centralizzata sostituita un anno fa e tetto rifatto 3 anni fa !!! Una soluzione ideale per chi cerca un bilocale dalle metrature decisamente superiori alla media, luminoso, completo di balcone vivibile, box e cantina e disponibile senza tempi di attesa."
                 },
                 "TestoBreve": {}
               }
@@ -53054,6 +52534,9 @@
               "CategoriaCatastale": {
                 "#text": "A/2"
               },
+              "AnnoCostruzione": {
+                "#text": "1978"
+              },
               "StatoManutenzione": {
                 "#text": "2"
               },
@@ -53061,6 +52544,9 @@
                 "#text": "2"
               },
               "CancelloElettrico": {
+                "#text": "true"
+              },
+              "VideoCitofono": {
                 "#text": "true"
               },
               "PortaBlindata": {
@@ -82416,6 +81902,16 @@
                   "Titolo": {},
                   "Testo": {
                     "#text": "For information, please contact Massimo at the Immobiliare Marson office in Busto Garolfo, Via S. Remigio 2, at 327.4722410 or 0331.1226546. In Canegrate, in the central area, we offer a semi-detached portion of a two-story house. The property comprises two rooms on the ground floor used as a garage/storage room, and two rooms with a balcony on the first floor. Totally in need of renovation. Available immediately! For information, please contact Massimo at the Immobiliare Marson office in Busto Garolfo, Via S. Remigio 2, at 327.4722410 or 0331.1226546.--25904efbfb1fb9567ccd265e9714b824!"
+                  },
+                  "TestoBreve": {}
+                },
+                {
+                  "@attributes": {
+                    "Lingua": "ES"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "Para más información, preguntar por Massimo en la Inmobiliaria Marson, oficina de Busto Garolfo, vía S. Remigio n.2, a los números 327.4722410 o 0331.1226546. En Canegrate, en zona central, ofrecemos una porción de casa semindependiente dispuesta en dos niveles. La propiedad consta de dos locales en la planta baja, uso garaje / trastero, y dos locales con balcón en la primera planta. Totalmente para reformar. ¡Libre de inmediato! Para más información, preguntar por Massimo en la Inmobiliaria Marson, oficina de Busto Garolfo, vía S. Remigio n.2, a los números 327.4722410 o 0331.1226546.--25904efbfb1fb9567ccd265e9714b824!"
                   },
                   "TestoBreve": {}
                 },
@@ -119295,6 +118791,16 @@
             },
             "Descrizioni": {
               "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "EN"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "For information: Edoardo 3898979155 or 0331-407358 Immobiliare Marson, office in Canegrate. In the center of Canegrate, convenient for all services, 500 meters from the train station, we offer a lovely studio apartment in a courtyard. The property is located on the first floor with a view of the external street. It consists of a bathroom with shower, a small hallway with a boiler, and a room with a kitchenette. The offer includes a parking space inside the courtyard. AVAILABLE IMMEDIATELY! For information: Edoardo 3898979155 or 0331-407358 Immobiliare Marson, office in Canegrate.--a4e78a8630deb81dbad9a51882e19381!"
+                  },
+                  "TestoBreve": {}
+                },
                 {
                   "@attributes": {
                     "Lingua": "IT"
