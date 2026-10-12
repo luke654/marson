@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T10:56:58.434803Z",
+  "generated_at": "2026-10-12T12:17:56.059887Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -15053,18 +15053,30 @@
               "#text": "2026-05-08T16:17:57"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "NEGOZIO IN CENTRO CON DUE VETRINE"
+                  },
+                  "Testo": {
+                    "#text": "PER APPUNTAMENTI SENTIRE ALESSANDRO 329.4125299 --- LIBERO SUBITO ! San Vittore Olona (MI), Via Magenta. Adiacente al Sempione, proponiamo in locazione negozio in ottimo stato, con due vetrine, disimpegno e bagno. Il negozio è situato in una posizione di forte passaggio vicino al Corso Sempione, a 2.5 Km dall'uscita autostrada Legnano. Nelle vicinanze ci sono scuole ed altre attività commerciali. L'immobile si presta oltre come negozio, anche come ufficio o studio. Riscaldamento autonomo. PER APPUNTAMENTI SENTIRE ALESSANDRO 329.4125299 --- LIBERO SUBITO !"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "NEGOZIO IN CENTRO CON DUE VETRINE"
-                },
-                "Testo": {
-                  "#text": "PER APPUNTAMENTI SENTIRE ALESSANDRO 329.4125299 --- LIBERO SUBITO ! San Vittore Olona (MI), Via Magenta. Adiacente al Sempione, proponiamo in locazione negozio in ottimo stato, con due vetrine, disimpegno e bagno. Il negozio è situato in una posizione di forte passaggio vicino al Corso Sempione, a 2.5 Km dall'uscita autostrada Legnano. Nelle vicinanze ci sono scuole ed altre attività commerciali. L'immobile si presta oltre come negozio, anche come ufficio o studio. Riscaldamento autonomo. PER APPUNTAMENTI SENTIRE ALESSANDRO 329.4125299 --- LIBERO SUBITO !"
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "RU"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "ДЛЯ ЗАПИСИ ЗВОНИТЕ АЛЕССАНДРО 329.4125299 --- СВОБОДНО СРАЗУ! Сан Витторе Олонa (МИ), Виа Маджента. Рядом с Семпионе, предлагаем в аренду магазин в отличном состоянии, с двумя витринами, коридором и ванной. Магазин расположен в месте с высоким трафиком рядом с Корсо Семпионе, в 2,5 км от выезда на автомагистраль Легнано. В окрестностях находятся школы и другие коммерческие заведения. Недвижимость подходит не только как магазин, но и как офис или студия. Автономное отопление. ДЛЯ ЗАПИСИ ЗВОНИТЕ АЛЕССАНДРО 329.4125299 --- СВОБОДНО СРАЗУ!--8dcb74cbe59b90021ece2bc95e226a36!"
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Commerciale": {
               "TipologiaUso": {
