@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:42:47.529920Z",
+  "generated_at": "2026-10-18T08:58:26.646791Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -30796,7 +30796,7 @@
               "#text": "2026-05-28T13:40:47"
             },
             "DataModifica": {
-              "#text": "2026-10-16T01:34:25"
+              "#text": "2026-10-17T10:19:00"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -31765,6 +31765,42 @@
                   },
                   "Posizione": {
                     "#text": "48"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "550444378",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129463442/49/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-10-17T08:18:53"
+                  },
+                  "Titolo": {
+                    "#text": "Facciata"
+                  },
+                  "Posizione": {
+                    "#text": "49"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "550444379",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/129463442/50/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-10-17T08:18:58"
+                  },
+                  "Titolo": {
+                    "#text": "Cortile interno"
+                  },
+                  "Posizione": {
+                    "#text": "50"
                   }
                 }
               ]
@@ -54013,6 +54049,144 @@
                 "#text": "true"
               },
               "CostruzioneAgricola": {
+                "#text": "true"
+              }
+            }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193811718"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015118"
+            },
+            "Comune": {
+              "#text": "Legnano"
+            },
+            "Zona": {
+              "#text": "Centro"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "34"
+              },
+              "#text": "piazza"
+            },
+            "Indirizzo": {
+              "#text": "San Magno"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20025"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "true"
+            },
+            "Latitudine": {
+              "#text": "45.59460068"
+            },
+            "Longitudine": {
+              "#text": "8.91839981"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "true"
+            },
+            "Categoria": {
+              "#text": "1"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "13"
+              },
+              "#text": "Stabile"
+            },
+            "NrLocali": {
+              "#text": "6"
+            },
+            "Prezzo": {
+              "#text": "4000000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "548"
+            },
+            "Riferimento": {
+              "#text": "RIFIVFR"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "Reddito": {
+              "#text": "true"
+            },
+            "DataInserimento": {
+              "#text": "2026-10-17T09:53:01"
+            },
+            "DataModifica": {
+              "#text": "2026-10-17T08:02:47"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "LEGNANO CENTRO – PIAZZA SAN MAGNO – INTERA PALAZZINA A REDD."
+                },
+                "Testo": {
+                  "#text": "Nel cuore del centro storico di Legnano, direttamente su Piazza San Magno, proponiamo in vendita un'intera palazzina, completamente locata, ideale per investitori alla ricerca di un importante opportunità immobiliare a reddito. L'immobile gode di una posizione centrale e di assoluto prestigio, affacciato su una delle piazze più rappresentative e frequentate della città, circondata da attività commerciali, servizi, negozi, ristoranti e collegamenti. La proprietà si sviluppa su più livelli e comprende diverse unità immobiliari a destinazione residenziale, direzionale e accessoria, commerciale, per una superficie calpestabile indicativa di circa 590 mq, comprensiva del comparto cantine, oltre a vani scala, disimpegni, spazi comuni e cortile interno interamente compreso nella proprietà. La consistenza immobiliare comprende: 5 appartamenti, di differenti metrature; 2 unità ad uso ufficio; negozio con affaccio sulla piazza; Comparto cantine; Locale tecnico e parti comuni; Cortile interno di proprietà. L'intero stabile è attualmente locato ad esclusione di una sola unitá, caratteristica che lo rende particolarmente interessante per chi desidera effettuare un investimento immobiliare con rendita locativa già esistente. La varietà delle destinazioni d'uso e la posizione strategica nel pieno centro cittadino rappresentano ulteriori elementi di valorizzazione dell'investimento, anche in un'ottica di gestione patrimoniale nel medio-lungo periodo. Una soluzione rara sul mercato, per posizione, consistenza e possibilità di investimento, nel cuore pulsante di Legnano. La vendita viene proposta esclusivamente in blocco, con tutte le unità immobiliari e le relative pertinenze. Per maggiori informazioni, documentazione e appuntamenti contattare Ivan al 335 1333080, anche tramite WhatsApp. Immobiliare Marson S.r.l."
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Residenziale": {
+              "PianiEdificio": {
+                "#text": "5"
+              },
+              "NrBagni": {
+                "#text": "4"
+              },
+              "NrBalconi": {
+                "#text": "1"
+              },
+              "Riscaldamento": {
+                "#text": "1"
+              },
+              "CategoriaCatastale": {
+                "#text": "A/2"
+              },
+              "TipoCostruzione": {
+                "#text": "7"
+              },
+              "StatoManutenzione": {
+                "#text": "6"
+              },
+              "StatoCostruzione": {
+                "#text": "6"
+              },
+              "Allarme": {
+                "#text": "true"
+              },
+              "InfissiEsterni": {
+                "#text": "5"
+              },
+              "LeggeClasseEnergetica": {
+                "#text": "0"
+              },
+              "InAttesaClasseEnergetica": {
                 "#text": "true"
               }
             }
