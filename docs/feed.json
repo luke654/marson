@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T13:24:27.174481Z",
+  "generated_at": "2026-11-21T12:53:13.952221Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -2928,6 +2928,343 @@
                   },
                   "Posizione": {
                     "#text": "19"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193858604"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015118"
+            },
+            "Comune": {
+              "#text": "Legnano"
+            },
+            "Zona": {
+              "#text": "Legnarello, Vecchio Ospedale, Sant'Erasmo"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "54"
+              },
+              "#text": "via"
+            },
+            "Indirizzo": {
+              "#text": "Francesco Ferruccio"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20025"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "true"
+            },
+            "Latitudine": {
+              "#text": "45.60160065"
+            },
+            "Longitudine": {
+              "#text": "8.91950035"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "true"
+            },
+            "Categoria": {
+              "#text": "1"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "1"
+              },
+              "#text": "Appartamento"
+            },
+            "NrLocali": {
+              "#text": "2"
+            },
+            "Prezzo": {
+              "#text": "95000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "60"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "TipoProprieta": {
+              "#text": "1"
+            },
+            "DataInserimento": {
+              "#text": "2026-11-20T11:03:52"
+            },
+            "DataModifica": {
+              "#text": "2026-11-20T11:07:05"
+            },
+            "Descrizioni": {
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "A due passi dal centro in corte due locali e servizi."
+                  },
+                  "Testo": {
+                    "#text": "LEGNANO ZONA LEGNARELLO A POCHI PASSI DAL CENTRO PROPONIAMO IN PICCOLA CORTE AL PIANO TERRA DUE LOCALI,SERVIZI E POSTO AUTO COMPOSTO DA: INGRESSO BLINDATO, SOGGIORNO CON CUCINA A VISTA,DISIMPEGNO NOTTE, CAMERA MATRIMONIALE E BAGNO.TENUTO BENE. OTTIMA ZONA A 5 MINUTI DAL CENTRO E DA L'ESSELUNGA. PER INFO 3355783441"
+                  },
+                  "TestoBreve": {}
+                },
+                {
+                  "@attributes": {
+                    "Lingua": "RU"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "Леньяно, район Леньярелло. В нескольких шагах от центра предлагаем квартиру на первом этаже в небольшом дворе: две комнаты, санузел и парковочное место. Планировка: входная дверь с усиленной защитой, гостиная с открытой кухней, ночной коридор, спальня с двуспальной кроватью и ванная комната. Квартира в хорошем состоянии. Отличный район, в 5 минутах от центра и супермаркета Esselunga. Информация по телефону: 3355783441.--2ffaac3490a51dd66814770a126e8b59!"
+                  },
+                  "TestoBreve": {}
+                }
+              ]
+            },
+            "Residenziale": {
+              "NrLivelli": {
+                "#text": "1"
+              },
+              "PianoFuoriTerra": {
+                "#text": "1"
+              },
+              "PianiEdificio": {
+                "#text": "2"
+              },
+              "NrCamereLetto": {
+                "#text": "1"
+              },
+              "NrAltreCamere": {
+                "#text": "1"
+              },
+              "NrBagni": {
+                "#text": "1"
+              },
+              "Cucina": {
+                "#text": "6"
+              },
+              "NrPostiAuto": {
+                "#text": "1"
+              },
+              "GiardinoCondominiale": {
+                "#text": "true"
+              },
+              "Riscaldamento": {
+                "#text": "1"
+              },
+              "TipoCostruzione": {
+                "#text": "3"
+              },
+              "StatoManutenzione": {
+                "#text": "2"
+              },
+              "StatoCostruzione": {
+                "#text": "2"
+              },
+              "CancelloElettrico": {
+                "#text": "true"
+              },
+              "PortaBlindata": {
+                "#text": "true"
+              },
+              "InfissiEsterni": {
+                "#text": "5"
+              },
+              "EsposizioneInterna": {
+                "#text": "true"
+              },
+              "LeggeClasseEnergetica": {
+                "#text": "0"
+              },
+              "ClasseEnergetica": {
+                "#text": "G"
+              },
+              "IPE": {
+                "#text": "175.00"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "558250749",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134930601/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T10:04:41"
+                  },
+                  "Titolo": {
+                    "#text": "Giardino"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558250750",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134930601/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T10:04:49"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558250751",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134930601/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T10:04:55"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558250752",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134930601/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T10:05:00"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558250753",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134930601/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T10:05:06"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558250754",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134930601/6/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T10:05:11"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "6"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558250755",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134930601/7/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T10:05:17"
+                  },
+                  "Titolo": {
+                    "#text": "Corridoio"
+                  },
+                  "Posizione": {
+                    "#text": "7"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558250756",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134930601/8/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T10:05:24"
+                  },
+                  "Titolo": {
+                    "#text": "Corridoio"
+                  },
+                  "Posizione": {
+                    "#text": "8"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558250757",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134930601/9/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T10:05:35"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "9"
                   }
                 }
               ]
@@ -48727,7 +49064,7 @@
               "#text": "2026-10-22T19:06:54"
             },
             "DataModifica": {
-              "#text": "2026-11-16T11:29:55"
+              "#text": "2026-11-20T11:55:04"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -48735,7 +49072,7 @@
                   "Lingua": "IT"
                 },
                 "Titolo": {
-                  "#text": "TERRENO EDIFICABILE!"
+                  "#text": "TERRENO EDIFICABILE - SOLO PER PALAZZINE !"
                 },
                 "Testo": {
                   "#text": "PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE ALESSANDRO N° 329.4125299. IMMOBILIARE MARSON Via Sempione 186 – San Vittore Olona, Propone in vendita: Cerro Maggiore - Via dei Paoli - Terreno Edificabile Lottizzato 2.380 mq DESCRIZIONE: In vendita in esclusiva terreno edificabile, già frazionato, pronto per costruire. Posizione strategica in zona residenziale consolidata, a pochi minuti dai servizi e dalle principali vie di comunicazione. Dati Urbanistici: • Superficie fondiaria: 2.380 mq • Superficie edificabile (SLP): 714 mq (indice 0,30) • Superficie coperta max: 948 mq (40%) • Superficie residua pertinenziale: 1.656 mq • Dotazione servizi: 714 mq totali già calcolati (300 mq verde/parcheggio + 414 mq parcheggi privati ad uso pubblico) Ideale per la realizzazione di piccole palazzine residenziali. Punti di forza: • Già frazionato • Terreno pianeggiante e di facile edificazione • Ottima esposizione e contesto residenziale La posizione rappresenta uno dei principali punti di forza dell'immobile: il terreno si trova vicino ai principali servizi cittadini quali scuole, supermercati, negozi, farmacia, impianti sportivi e fermate dei mezzi pubblici. Una soluzione particolarmente interessante per imprese di costruzione alla ricerca di un lotto edificabile!!!!"
@@ -54707,6 +55044,847 @@
                   },
                   "Posizione": {
                     "#text": "50"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193858663"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015118"
+            },
+            "Comune": {
+              "#text": "Legnano"
+            },
+            "Zona": {
+              "#text": "Frati, San Martino"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "15"
+              },
+              "#text": "corso"
+            },
+            "Indirizzo": {
+              "#text": "Sempione"
+            },
+            "Civico": {
+              "#text": "244"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20025"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "true"
+            },
+            "Latitudine": {
+              "#text": "45.60490036"
+            },
+            "Longitudine": {
+              "#text": "8.91399956"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "true"
+            },
+            "Categoria": {
+              "#text": "1"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "1"
+              },
+              "#text": "Appartamento"
+            },
+            "NrLocali": {
+              "#text": "3"
+            },
+            "Prezzo": {
+              "#text": "165000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "95"
+            },
+            "Riferimento": {
+              "#text": "SEMPIONE 244"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "TipoProprieta": {
+              "#text": "1"
+            },
+            "DataInserimento": {
+              "#text": "2026-11-20T10:07:31"
+            },
+            "DataModifica": {
+              "#text": "2026-11-20T10:19:00"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "ULTIMO PIANO. TRE LOCALI CON BOX AUTO E CANTINA. LIBERO!"
+                },
+                "Testo": {
+                  "#text": "IMMOBILIARE MARSON DI SAN VITTORE OLONA VIA SEMPIONE 186 propone in vendita: LIBERO SUBITO! Legnano Via Sempione 244, in condominio ordinato, situato all'ultimo piano proponiamo ampio tre locali, servizi, cantina e box composto da: ingresso blindato, soggiorno con balcone, cucina abitabile, bagno, disimpegno notte, camera matrimoniale e cameretta. Sempre nello stesso stabile troviamo la cantina e il box. L'appartamento si presenta abitabile ed il riscaldamento ha il contacalorie, finiture originali. Ottima zona servita da negozi, supermercati, fermata autobus e comodo per all' autostrada Varese/Milano."
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Residenziale": {
+              "StatoImmobile": {
+                "#text": "1"
+              },
+              "NrLivelli": {
+                "#text": "1"
+              },
+              "Piano": {
+                "#text": "4"
+              },
+              "PianiEdificio": {
+                "#text": "4"
+              },
+              "NrCamereLetto": {
+                "#text": "2"
+              },
+              "NrAltreCamere": {
+                "#text": "1"
+              },
+              "NrBagni": {
+                "#text": "1"
+              },
+              "Cucina": {
+                "#text": "1"
+              },
+              "NrBalconi": {
+                "#text": "1"
+              },
+              "NrAscensori": {
+                "#text": "1"
+              },
+              "BoxAuto": {
+                "#text": "1"
+              },
+              "Cantina": {
+                "#text": "1"
+              },
+              "GiardinoCondominiale": {
+                "#text": "true"
+              },
+              "Riscaldamento": {
+                "#text": "1"
+              },
+              "Arredamento": {
+                "#text": "2"
+              },
+              "CategoriaCatastale": {
+                "#text": "A/2"
+              },
+              "AnnoCostruzione": {
+                "#text": "1970"
+              },
+              "TipoCostruzione": {
+                "#text": "3"
+              },
+              "StatoManutenzione": {
+                "#text": "2"
+              },
+              "StatoCostruzione": {
+                "#text": "2"
+              },
+              "CancelloElettrico": {
+                "#text": "true"
+              },
+              "PortaBlindata": {
+                "#text": "true"
+              },
+              "ImpiantoTV": {
+                "#text": "1"
+              },
+              "InfissiEsterni": {
+                "#text": "3"
+              },
+              "EsposizioneInterna": {
+                "#text": "true"
+              },
+              "EsposizioneEsterna": {
+                "#text": "true"
+              },
+              "LeggeClasseEnergetica": {
+                "#text": "0"
+              },
+              "InAttesaClasseEnergetica": {
+                "#text": "true"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287790",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:26"
+                  },
+                  "Titolo": {
+                    "#text": "Facciata"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287791",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:28"
+                  },
+                  "Titolo": {
+                    "#text": "Salone"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287792",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:31"
+                  },
+                  "Titolo": {
+                    "#text": "Salone"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287793",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:33"
+                  },
+                  "Titolo": {
+                    "#text": "Salone"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287794",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:35"
+                  },
+                  "Titolo": {
+                    "#text": "Salone"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287795",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/6/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:37"
+                  },
+                  "Titolo": {
+                    "#text": "Salone"
+                  },
+                  "Posizione": {
+                    "#text": "6"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287804",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/7/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:58"
+                  },
+                  "Titolo": {
+                    "#text": "Salone"
+                  },
+                  "Posizione": {
+                    "#text": "7"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287802",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/8/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:53"
+                  },
+                  "Titolo": {
+                    "#text": "Balcone"
+                  },
+                  "Posizione": {
+                    "#text": "8"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287799",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/9/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:46"
+                  },
+                  "Titolo": {
+                    "#text": "Terrazzo"
+                  },
+                  "Posizione": {
+                    "#text": "9"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287805",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/10/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:00"
+                  },
+                  "Titolo": {
+                    "#text": "Vista"
+                  },
+                  "Posizione": {
+                    "#text": "10"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287808",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/11/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:11"
+                  },
+                  "Titolo": {
+                    "#text": "Vista"
+                  },
+                  "Posizione": {
+                    "#text": "11"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287815",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/12/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:31"
+                  },
+                  "Titolo": {
+                    "#text": "Balcone"
+                  },
+                  "Posizione": {
+                    "#text": "12"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287796",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/13/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:39"
+                  },
+                  "Titolo": {
+                    "#text": "Corridoio"
+                  },
+                  "Posizione": {
+                    "#text": "13"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287797",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/14/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:41"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "14"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287798",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/15/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:44"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "15"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287800",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/16/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:48"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "16"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287801",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/17/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:50"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "17"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287803",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/18/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:16:55"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "18"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287809",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/19/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:13"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "19"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287806",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/20/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:03"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "20"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287807",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/21/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:06"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "21"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287810",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/22/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:16"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "22"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287811",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/23/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:19"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "23"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287816",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/24/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:33"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "24"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287818",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/25/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:37"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "25"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287819",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/26/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:39"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "26"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287822",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/27/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:46"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "27"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287823",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/28/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:48"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "28"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287813",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/29/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:23"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "29"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287814",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/30/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:28"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "30"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287817",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/31/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:35"
+                  },
+                  "Titolo": {
+                    "#text": "Salone"
+                  },
+                  "Posizione": {
+                    "#text": "31"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287812",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/32/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:21"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "32"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287821",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/33/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:44"
+                  },
+                  "Titolo": {
+                    "#text": "Interno palazzo"
+                  },
+                  "Posizione": {
+                    "#text": "33"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287820",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/34/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:41"
+                  },
+                  "Titolo": {
+                    "#text": "Interno palazzo"
+                  },
+                  "Posizione": {
+                    "#text": "34"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287825",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/35/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:52"
+                  },
+                  "Titolo": {
+                    "#text": "Facciata"
+                  },
+                  "Posizione": {
+                    "#text": "35"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "558287824",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/134929457/36/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-20T09:17:50"
+                  },
+                  "Titolo": {
+                    "#text": "Cortile interno"
+                  },
+                  "Posizione": {
+                    "#text": "36"
                   }
                 }
               ]
@@ -112541,18 +113719,30 @@
               "#text": "2026-09-17T17:29:48"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "PRESTIGIOSA VILLA D’EPOCA RISTRUTTURATA CON GIARDINO PRIVATO"
+                  },
+                  "Testo": {
+                    "#text": "Per informazioni contattare Flaviana presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300 CORBETTA - Nel cuore di Corbetta, in contesto residenziale riservato ed elegante, proponiamo in vendita esclusiva una raffinata villa indipendente dei primi del ’900, sapientemente ristrutturata nel 1995, che conserva intatto il fascino architettonico originario unito al comfort contemporaneo. La proprietà si sviluppa su quattro livelli per una superficie complessiva di 269 mq, offrendo ambienti ampi, luminosi e perfettamente distribuiti. Piano seminterrato Accogliente taverna ideale come area conviviale o zona hobby, lavanderia e bagno. Piano rialzato Importante zona giorno composta da salone di rappresentanza, cucina abitabile, studio e bagno di servizio. Gli spazi, valorizzati da parquet e ampie finestre, garantiscono grande luminosità e un’atmosfera calda ed elegante. Piano primo Quattro camere da letto, servizi e terrazza, perfetta per momenti di relax con affaccio sul verde. Piano secondo (ultimo) Due zone luminose soppalcate che affacciano sulle due camere singole da adibire ad area studio, relax, hobby - disimpegno/salottino con ulteriore servizio: uno spazio versatile ideale anche come zona ospiti. All’esterno, un curato giardino privato di circa 500 mq incornicia la villa, offrendo privacy e spazi ideali per vivere all’aperto in totale tranquillità. Una soluzione di assoluto charme, perfetta per famiglie che desiderano una residenza esclusiva, ricca di personalità e storia, a pochi passi dai principali servizi. Libera subito, merita visione!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "PRESTIGIOSA VILLA D’EPOCA RISTRUTTURATA CON GIARDINO PRIVATO"
-                },
-                "Testo": {
-                  "#text": "Per informazioni contattare Flaviana presso IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO ai numeri 329.0927835 oppure 0331.410300 CORBETTA - Nel cuore di Corbetta, in contesto residenziale riservato ed elegante, proponiamo in vendita esclusiva una raffinata villa indipendente dei primi del ’900, sapientemente ristrutturata nel 1995, che conserva intatto il fascino architettonico originario unito al comfort contemporaneo. La proprietà si sviluppa su quattro livelli per una superficie complessiva di 269 mq, offrendo ambienti ampi, luminosi e perfettamente distribuiti. Piano seminterrato Accogliente taverna ideale come area conviviale o zona hobby, lavanderia e bagno. Piano rialzato Importante zona giorno composta da salone di rappresentanza, cucina abitabile, studio e bagno di servizio. Gli spazi, valorizzati da parquet e ampie finestre, garantiscono grande luminosità e un’atmosfera calda ed elegante. Piano primo Quattro camere da letto, servizi e terrazza, perfetta per momenti di relax con affaccio sul verde. Piano secondo (ultimo) Due zone luminose soppalcate che affacciano sulle due camere singole da adibire ad area studio, relax, hobby - disimpegno/salottino con ulteriore servizio: uno spazio versatile ideale anche come zona ospiti. All’esterno, un curato giardino privato di circa 500 mq incornicia la villa, offrendo privacy e spazi ideali per vivere all’aperto in totale tranquillità. Una soluzione di assoluto charme, perfetta per famiglie che desiderano una residenza esclusiva, ricca di personalità e storia, a pochi passi dai principali servizi. Libera subito, merita visione!"
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "RU"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "Для получения информации свяжитесь с Флавианой в агентстве IMMOBILIARE MARSON SAN GIORGIO SU LEGNANO по телефонам 329.0927835 или 0331.410300 КОРБЕТТА — В самом сердце Корбетты, в уединённом и элегантном жилом районе, предлагаем к эксклюзивной продаже изысканную отдельно стоящую виллу начала XX века. В 1995 году она была тщательно отреставрирована, при этом сохранила первоначальное архитектурное очарование, гармонично сочетающееся с современным комфортом. Вилла занимает четыре уровня общей площадью 269 м². Просторные, светлые помещения отличаются продуманной планировкой. Цокольный этаж Уютная таверна — идеальное место для встреч и отдыха или занятий хобби, прачечная и ванная комната. Приподнятый первый этаж Представительная гостиная, просторная кухня, кабинет и гостевой санузел. Паркетные полы и большие окна наполняют помещения светом и создают тёплую, элегантную атмосферу. Второй этаж Четыре спальни, ванные комнаты и терраса — идеальное место для отдыха с видом на зелёные насаждения. Третий этаж (верхний) Две светлые антресольные зоны с видом на две отдельные спальни — их можно обустроить под кабинет, зону отдыха или хобби. Холл-гостиная и дополнительная ванная комната. Универсальное пространство, которое также подойдёт для размещения гостей. Снаружи виллу окружает ухоженный частный сад площадью около 500 м² — уединённое место с идеальными условиями для отдыха на свежем воздухе. Вилла с неповторимым шармом — прекрасный выбор для семьи, которая ищет эксклюзивную резиденцию с ярким характером и богатой историей, в нескольких шагах от основных объектов инфраструктуры. Свободна для заселения. Обязательно посмотрите!--66e466ed2df8a72ceab064382c0f5f8b!"
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Residenziale": {
               "StatoImmobile": {
