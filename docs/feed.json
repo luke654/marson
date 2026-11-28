@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:07:28.984828Z",
+  "generated_at": "2026-11-28T13:25:11.542167Z",
   "feeds": {
     "12C22AD2-7740-46E9-9676-C051C9C6D674.xml": {
       "source_url": "http://feed.getrix.it/xml/12C22AD2-7740-46E9-9676-C051C9C6D674.zip",
@@ -29389,6 +29389,586 @@
           },
           {
             "@attributes": {
+              "IDImmobile": "193619427"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015116"
+            },
+            "Comune": {
+              "#text": "Lainate"
+            },
+            "Zona": {
+              "#text": "Centro"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "56"
+              },
+              "#text": "viale"
+            },
+            "Indirizzo": {
+              "#text": "Rimembranze"
+            },
+            "Civico": {
+              "#text": "22"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20045"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "true"
+            },
+            "Latitudine": {
+              "#text": "45.56940079"
+            },
+            "Longitudine": {
+              "#text": "9.02700043"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "true"
+            },
+            "Categoria": {
+              "#text": "1"
+            },
+            "Contratto": {
+              "#text": "V"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "1"
+              },
+              "#text": "Appartamento"
+            },
+            "NrLocali": {
+              "#text": "3"
+            },
+            "Prezzo": {
+              "#text": "130000.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "76"
+            },
+            "Riferimento": {
+              "#text": "3LAINATE"
+            },
+            "SpeseMensili": {
+              "#text": "170.0000"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "TipoProprieta": {
+              "#text": "1"
+            },
+            "DataInserimento": {
+              "#text": "2026-05-06T13:18:59"
+            },
+            "DataModifica": {
+              "#text": "2026-11-27T11:01:40"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "TRILOCALE IN CENTRO PAESE CON CANTINA!"
+                },
+                "Testo": {
+                  "#text": "PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE ALESSANDRO 329.4125299. IMMOBILIARE MARSON DI SAN VITTORE OLONA, VIA SEMPIONE 186, PROPONE IN VENDITA: Lainate (MI), Viale Rimembranze 22. LIBERO SUBITO! PARZIALMENTE ARREDATO, CUCINA COMPRESA NEL PREZZO! In pieno centro paese, a pochi passi dalla fermata dell'autobus, proponiamo in esclusiva, tre locali situato al piano secondo con ascensore, di mq 75, così composto: ingresso, soggiorno con angolo cottura, disimpegno, bagno, due camere da letto, balcone. Recentemente sono stati rifatti infissi in doppio vetro pvc e bagno. Pavimentazione stato originale. Completa la proprietà un vano cantina. Riscaldamento centralizzato. Spese condominiali pari a 170,00€/mese + consumi. Posteggio comunale difronte al contesto. PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE ALESSANDRO 329.4125299."
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Residenziale": {
+              "StatoImmobile": {
+                "#text": "1"
+              },
+              "NrLivelli": {
+                "#text": "1"
+              },
+              "Piano": {
+                "#text": "2"
+              },
+              "PianiEdificio": {
+                "#text": "6"
+              },
+              "NrCamereLetto": {
+                "#text": "2"
+              },
+              "NrAltreCamere": {
+                "#text": "1"
+              },
+              "NrBagni": {
+                "#text": "1"
+              },
+              "Cucina": {
+                "#text": "2"
+              },
+              "NrBalconi": {
+                "#text": "1"
+              },
+              "NrAscensori": {
+                "#text": "1"
+              },
+              "Cantina": {
+                "#text": "1"
+              },
+              "GiardinoCondominiale": {
+                "#text": "true"
+              },
+              "Riscaldamento": {
+                "#text": "2"
+              },
+              "Arredamento": {
+                "#text": "1"
+              },
+              "CategoriaCatastale": {
+                "#text": "A/3"
+              },
+              "AnnoCostruzione": {
+                "#text": "1966"
+              },
+              "TipoCostruzione": {
+                "#text": "1"
+              },
+              "StatoManutenzione": {
+                "#text": "2"
+              },
+              "StatoCostruzione": {
+                "#text": "2"
+              },
+              "CancelloElettrico": {
+                "#text": "true"
+              },
+              "FibraOttica": {
+                "#text": "true"
+              },
+              "ImpiantoTV": {
+                "#text": "1"
+              },
+              "EsposizioneEsterna": {
+                "#text": "true"
+              },
+              "LeggeClasseEnergetica": {
+                "#text": "0"
+              },
+              "InAttesaClasseEnergetica": {
+                "#text": "true"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785156",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:01:25"
+                  },
+                  "Titolo": {
+                    "#text": "Facciata"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780019",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:21"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780022",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:25"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780036",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:21:27"
+                  },
+                  "Titolo": {
+                    "#text": "Terrazzo"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780037",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:21:28"
+                  },
+                  "Titolo": {
+                    "#text": "Terrazzo"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780034",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/6/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:21:25"
+                  },
+                  "Titolo": {
+                    "#text": "Facciata"
+                  },
+                  "Posizione": {
+                    "#text": "6"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780035",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/7/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:21:26"
+                  },
+                  "Titolo": {
+                    "#text": "Zona"
+                  },
+                  "Posizione": {
+                    "#text": "7"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780039",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/8/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:24:04"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "8"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780024",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/9/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:27"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "9"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780026",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/10/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:29"
+                  },
+                  "Titolo": {
+                    "#text": "Ingresso"
+                  },
+                  "Posizione": {
+                    "#text": "10"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780023",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/11/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:26"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "11"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780021",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/12/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:23"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "12"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780025",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/13/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:28"
+                  },
+                  "Titolo": {
+                    "#text": "Ingresso"
+                  },
+                  "Posizione": {
+                    "#text": "13"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780020",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/14/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:22"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "14"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780027",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/15/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:30"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "15"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780028",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/16/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:32"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "16"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780029",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/17/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:33"
+                  },
+                  "Titolo": {
+                    "#text": "Corridoio"
+                  },
+                  "Posizione": {
+                    "#text": "17"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780030",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/18/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:34"
+                  },
+                  "Titolo": {
+                    "#text": "Ingresso"
+                  },
+                  "Posizione": {
+                    "#text": "18"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780032",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/19/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:36"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "19"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780031",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/20/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:35"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "20"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "521780018",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/128835510/21/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-06T11:20:19"
+                  },
+                  "Titolo": {
+                    "#text": "Interno palazzo"
+                  },
+                  "Posizione": {
+                    "#text": "21"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "523790885",
+                    "Tipo": "P"
+                  },
+                  "URL": {
+                    "#text": "http://mediaserver.getrix.it/plan/127534298/print.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-05-18T10:11:44"
+                  },
+                  "Posizione": {
+                    "#text": "22"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@attributes": {
               "IDImmobile": "193751062"
             },
             "CodiceNazione": {
@@ -44958,7 +45538,7 @@
               "#text": "2"
             },
             "Prezzo": {
-              "#text": "128000.0000"
+              "#text": "118000.0000"
             },
             "TrattativaRiservata": {
               "#text": "false"
@@ -44982,7 +45562,7 @@
               "#text": "2026-09-04T18:19:46"
             },
             "DataModifica": {
-              "#text": "2026-10-09T13:47:43"
+              "#text": "2026-11-27T10:35:09"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -45544,18 +46124,30 @@
               "#text": "2026-11-19T00:07:21"
             },
             "Descrizioni": {
-              "Descrizione": {
-                "@attributes": {
-                  "Lingua": "IT"
+              "Descrizione": [
+                {
+                  "@attributes": {
+                    "Lingua": "EN"
+                  },
+                  "Titolo": {},
+                  "Testo": {
+                    "#text": "FOR APPOINTMENTS AND FURTHER INFORMATION, CONTACT IVAN ON 335-1333080, ALSO AVAILABLE ON WHATSAPP. Monza (MB), Via Martiri di Belfiore No. 2. AVAILABLE IMMEDIATELY! In the heart of Monza’s San Fruttuoso neighbourhood, in a quiet, green and well-served residential area, we are offering for sale a bright three-room apartment in an elegant, well-maintained condominium with a lift. The home offers spacious, practical accommodation and comprises: an entrance hall with a convenient hallway, a large living room with a balcony (connected to the kitchen and ideal for dining outdoors), a kitchen with dining area and balcony, a hallway leading to the bedrooms, a fully renovated bathroom with shower enclosure, a large double bedroom with a second balcony, a second bedroom, a second bathroom with bathtub, and a storage room. The property also includes a cellar. A GARAGE IS AVAILABLE FOR PURCHASE ON SITE. The apartment is equipped with air conditioning in the kitchen, living room and double bedroom, a video intercom and fibre-optic internet directly in the home. The bedrooms have parquet flooring and built-in wardrobes. The condominium has undergone ongoing maintenance over the years, including façade renovations and the very recent replacement of the central heating boiler. Heating is centrally supplied, with thermostatic valves and heat meters that allow residents to manage their consumption more independently. A stairlift also makes access easier for people with disabilities or reduced mobility. San Fruttuoso is one of Monza’s most sought-after residential neighbourhoods, known for its extensive green spaces, peaceful atmosphere and comprehensive local amenities. Schools, supermarkets, shops, pharmacies and transport links to Monza city centre and Milan are all nearby. A spacious, well-appointed home, available immediately—ideal for anyone looking for comfortable living space, two bathrooms, and the option to purchase a garage, as well as a well-kept, welcoming condominium.--0bb16779986448326969644bbc71b32e!"
+                  },
+                  "TestoBreve": {}
                 },
-                "Titolo": {
-                  "#text": "SAN FRUTTUOSO |AMPIO TRE LOCALI CON CANTINA. POSSIBILITÀ BOX"
-                },
-                "Testo": {
-                  "#text": "PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CONTATTARE IVAN AL 335-1333080, ANCHE WHATSAPP. Monza (MB), Via Martiri di Belfiore n°2. LIBERO SUBITO! Nel cuore del quartiere San Fruttuoso di Monza, in zona residenziale tranquilla, verde e ben servita, proponiamo in vendita luminoso appartamento di tre locali, inserito in un condominio signorile e ottimamente tenuto, servito da ascensore. L'abitazione gode di spazi ampi e funzionali, risulta nel dettaglio così composto: Ingresso sul comodo disimpegno, ampio soggiorno con balcone (collegato alla cucina, ideale anche per mangiare all'aperto), cucina abitabile con balcone, disimpegno notte, servizio completamente ristrutturato con box doccia, grande camera matrimoniale con secondo balcone, seconda camera da letto, secondo bagno con vasca, ripostiglio. Completa la proprietà una cantina, POSSIBILITÀ DI ACQUISTO BOX IN LOCO. L'immobile è dotato di impianto di climatizzazione in cucina, soggiorno e camera matrimoniale, videocitofono e fibra ottica direttamente in casa, camere rifinite in parquet, armadi a muro. Il condominio è stato oggetto negli anni di continui interventi di manutenzione, tra cui il rifacimento delle facciate e la recentissima sostituzione della caldaia centralizzata. Il riscaldamento è centralizzato con termovalvole e contabilizzatori di calore, che consentono una gestione più autonoma dei consumi. La presenza del montascale facilita inoltre l'accesso anche a persone con disabilità o ridotta capacità motoria. San Fruttuoso è uno dei quartieri residenziali più apprezzati di Monza, caratterizzato da ampie aree verdi, tranquillità e completezza dei servizi. Nelle vicinanze si trovano scuole, supermercati, negozi, farmacie e collegamenti con il centro di Monza e Milano. Una soluzione ampia e completa, immediatamente disponibile, ideale per chi cerca spazi comodi, doppi servizi, box e cantina inclusi, ed un contesto condominiale curato e ben abitato."
-                },
-                "TestoBreve": {}
-              }
+                {
+                  "@attributes": {
+                    "Lingua": "IT"
+                  },
+                  "Titolo": {
+                    "#text": "SAN FRUTTUOSO |AMPIO TRE LOCALI CON CANTINA. POSSIBILITÀ BOX"
+                  },
+                  "Testo": {
+                    "#text": "PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CONTATTARE IVAN AL 335-1333080, ANCHE WHATSAPP. Monza (MB), Via Martiri di Belfiore n°2. LIBERO SUBITO! Nel cuore del quartiere San Fruttuoso di Monza, in zona residenziale tranquilla, verde e ben servita, proponiamo in vendita luminoso appartamento di tre locali, inserito in un condominio signorile e ottimamente tenuto, servito da ascensore. L'abitazione gode di spazi ampi e funzionali, risulta nel dettaglio così composto: Ingresso sul comodo disimpegno, ampio soggiorno con balcone (collegato alla cucina, ideale anche per mangiare all'aperto), cucina abitabile con balcone, disimpegno notte, servizio completamente ristrutturato con box doccia, grande camera matrimoniale con secondo balcone, seconda camera da letto, secondo bagno con vasca, ripostiglio. Completa la proprietà una cantina, POSSIBILITÀ DI ACQUISTO BOX IN LOCO. L'immobile è dotato di impianto di climatizzazione in cucina, soggiorno e camera matrimoniale, videocitofono e fibra ottica direttamente in casa, camere rifinite in parquet, armadi a muro. Il condominio è stato oggetto negli anni di continui interventi di manutenzione, tra cui il rifacimento delle facciate e la recentissima sostituzione della caldaia centralizzata. Il riscaldamento è centralizzato con termovalvole e contabilizzatori di calore, che consentono una gestione più autonoma dei consumi. La presenza del montascale facilita inoltre l'accesso anche a persone con disabilità o ridotta capacità motoria. San Fruttuoso è uno dei quartieri residenziali più apprezzati di Monza, caratterizzato da ampie aree verdi, tranquillità e completezza dei servizi. Nelle vicinanze si trovano scuole, supermercati, negozi, farmacie e collegamenti con il centro di Monza e Milano. Una soluzione ampia e completa, immediatamente disponibile, ideale per chi cerca spazi comodi, doppi servizi, box e cantina inclusi, ed un contesto condominiale curato e ben abitato."
+                  },
+                  "TestoBreve": {}
+                }
+              ]
             },
             "Residenziale": {
               "StatoImmobile": {
@@ -57632,7 +58224,7 @@
               "#text": "2026-11-17T00:21:16"
             },
             "DataModifica": {
-              "#text": "2026-11-17T15:01:48"
+              "#text": "2026-11-27T10:02:23"
             },
             "Descrizioni": {
               "Descrizione": {
@@ -57643,7 +58235,7 @@
                   "#text": "SAN VITTORE OLONA – TRILOCALE CON DUE BALCONI, BOX E CANTINA"
                 },
                 "Testo": {
-                  "#text": "IMMOBILIARE MARSON DI SAN VITTORE OLONA, VIA SEMPIONE 186, PROPONE: PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE IVAN AL 335-1333080. San Vittore Olona (MI), Via Roma 18. Proponiamo in vendita un appartamento di tre locali situato al terzo piano di una palazzina condominiale ottimamente mantenuta, ubicata in posizione strategica, a pochi passi dal centro e comoda per raggiungere Legnano e i principali servizi del paese, tra cui negozi, supermercati e scuole. L’abitazione, LIBERA SUBITO e proposta arredata, è così composta: Ingresso sul disimpegno, soggiorno, cucinotto; zona notte composta da due camere da letto e bagno con vasca. I comodi balconi, con piacevole vista aperta sul verde nonostante la posizione centrale, garantiscono agli ambienti un’ottima luminosità e ariosità! L’appartamento è stato costantemente mantenuto con cura e dispone di impianto di climatizzazione Samsung in entrambe le camere da letto, serramenti recenti in alluminio con doppio vetro, videocitofono e predisposizione per impianto antifurto, tutti elementi che contribuiscono al comfort abitativo. Le contenute spese condominiali rappresentano un ulteriore punto di forza della proprietà. Riscaldamento centralizzato. Completano la proprietà un box singolo e una cantina! La soluzione ideale per chi desidera un appartamento pronto da abitare, in posizione centrale, ben servita e comoda per gli spostamenti."
+                  "#text": "IMMOBILIARE MARSON DI SAN VITTORE OLONA, VIA SEMPIONE 186, PROPONE: PER APPUNTAMENTI E MAGGIORI INFORMAZIONI CHIAMARE IVAN AL 335-1333080. San Vittore Olona (MI), Via Roma 18. Proponiamo in vendita un appartamento di tre locali situato al terzo piano di una palazzina condominiale ottimamente mantenuta, ubicata in posizione strategica, a pochi passi dal centro e comoda per raggiungere Legnano e i principali servizi del paese, tra cui negozi, supermercati e scuole. L’abitazione, LIBERA SUBITO e proposta arredata, è così composta: Ingresso sul disimpegno, soggiorno, cucinotto; zona notte composta da due camere da letto e bagno con vasca. I comodi balconi, con piacevole vista aperta sul verde nonostante la posizione centrale, garantiscono agli ambienti un’ottima luminosità e ariosità! L’appartamento è stato costantemente mantenuto con cura e dispone di impianto di climatizzazione Samsung in entrambe le camere da letto, serramenti recenti in alluminio con doppio vetro, videocitofono e impianto antifurto, tutti elementi che contribuiscono al comfort abitativo. Le contenute spese condominiali rappresentano un ulteriore punto di forza della proprietà. Riscaldamento centralizzato. Completano la proprietà un box singolo e una cantina! Spese condominiali comprensive di riscaldamento e acqua fredda di circa 2500 euro annui ( dipendenti dai consumi). La soluzione ideale per chi desidera un appartamento pronto da abitare, in posizione centrale, ben servita e comoda per gli spostamenti."
                 },
                 "TestoBreve": {}
               }
@@ -61361,6 +61953,434 @@
                   },
                   "Posizione": {
                     "#text": "38"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "@attributes": {
+              "IDImmobile": "193868922"
+            },
+            "CodiceNazione": {
+              "#text": "IT"
+            },
+            "CodiceComune": {
+              "#text": "015118"
+            },
+            "Comune": {
+              "#text": "Legnano"
+            },
+            "Zona": {
+              "#text": "Frati, San Martino"
+            },
+            "Strada": {
+              "@attributes": {
+                "IDStrada": "54"
+              },
+              "#text": "via"
+            },
+            "Indirizzo": {
+              "#text": "Santa Teresa del Bambin Gesú"
+            },
+            "Civico": {
+              "#text": "133"
+            },
+            "PubblicaCivico": {
+              "#text": "false"
+            },
+            "Cap": {
+              "#text": "20025"
+            },
+            "PubblicaIndirizzo": {
+              "#text": "true"
+            },
+            "Latitudine": {
+              "#text": "45.60760117"
+            },
+            "Longitudine": {
+              "#text": "8.92409992"
+            },
+            "Zoom": {
+              "#text": "12"
+            },
+            "PubblicaMappa": {
+              "#text": "true"
+            },
+            "Categoria": {
+              "#text": "1"
+            },
+            "Contratto": {
+              "#text": "A"
+            },
+            "Tipologia": {
+              "@attributes": {
+                "IDTipologia": "1"
+              },
+              "#text": "Appartamento"
+            },
+            "NrLocali": {
+              "#text": "2"
+            },
+            "Prezzo": {
+              "#text": "730.0000"
+            },
+            "TrattativaRiservata": {
+              "#text": "false"
+            },
+            "MQSuperficie": {
+              "#text": "75"
+            },
+            "Riferimento": {
+              "#text": "AFFTERESA"
+            },
+            "SpeseMensili": {
+              "#text": "70.0000"
+            },
+            "TipoSpese": {
+              "#text": "0"
+            },
+            "TipoProprieta": {
+              "#text": "1"
+            },
+            "DataInserimento": {
+              "#text": "2026-11-27T11:33:12"
+            },
+            "DataModifica": {
+              "#text": "2026-11-27T17:41:12"
+            },
+            "Descrizioni": {
+              "Descrizione": {
+                "@attributes": {
+                  "Lingua": "IT"
+                },
+                "Titolo": {
+                  "#text": "BILOCALE ARREDATO IN ELEGANTE RESIDENCE IMMERSO NEL VERDE!!!"
+                },
+                "Testo": {
+                  "#text": "PER APPUNTAMENTI O MAGGIORI INFORMAZIONI SCRIVERE SU WHATSAPP ALESSANDRO N. 329.4125299. LEGNANO (MI) Residence Quadrifoglio - PERSONE REFERENZIATE CON REDDITI DIMOSTRABILI. In un elegante contesto residenziale, circondato dal verde e situato in posizione strategica, proponiamo in locazione un grazioso bilocale, posto al terzo ed ultimo piano con ascensore. Soluzione completamente arredata. L’appartamento rappresenta la soluzione ideale per chi desidera vivere in un ambiente tranquillo, curato e riservato, senza rinunciare alla comodità dei principali collegamenti. La posizione è particolarmente interessante: di fronte alle scuole Manzoni e a pochi minuti dall’imbocco autostradale, ideale per chi necessita di spostarsi quotidianamente per lavoro. L’immobile è disponibile da subito. Riscaldamento autonomo con basse spese condominiali. Si affitta esclusivamente a single o coppie, senza animali domestici. È richiesta la dimostrazione di un reddito adeguato e documentabile. PER APPUNTAMENTI O MAGGIORI INFORMAZIONI SCRIVERE SU WHATSAPP ALESSANDRO N. 329.4125299."
+                },
+                "TestoBreve": {}
+              }
+            },
+            "Residenziale": {
+              "StatoImmobile": {
+                "#text": "1"
+              },
+              "NrLivelli": {
+                "#text": "1"
+              },
+              "Piano": {
+                "#text": "3"
+              },
+              "PianiEdificio": {
+                "#text": "3"
+              },
+              "NrCamereLetto": {
+                "#text": "1"
+              },
+              "NrAltreCamere": {
+                "#text": "1"
+              },
+              "NrBagni": {
+                "#text": "1"
+              },
+              "Cucina": {
+                "#text": "6"
+              },
+              "NrTerrazzi": {
+                "#text": "1"
+              },
+              "NrAscensori": {
+                "#text": "1"
+              },
+              "BoxAuto": {
+                "#text": "1"
+              },
+              "GiardinoCondominiale": {
+                "#text": "true"
+              },
+              "Riscaldamento": {
+                "#text": "1"
+              },
+              "Arredamento": {
+                "#text": "2"
+              },
+              "CategoriaCatastale": {
+                "#text": "A/3"
+              },
+              "AnnoCostruzione": {
+                "#text": "2009"
+              },
+              "TipoCostruzione": {
+                "#text": "3"
+              },
+              "StatoManutenzione": {
+                "#text": "6"
+              },
+              "StatoCostruzione": {
+                "#text": "6"
+              },
+              "CancelloElettrico": {
+                "#text": "true"
+              },
+              "FibraOttica": {
+                "#text": "true"
+              },
+              "PortaBlindata": {
+                "#text": "true"
+              },
+              "ImpiantoTV": {
+                "#text": "1"
+              },
+              "InfissiEsterni": {
+                "#text": "5"
+              },
+              "EsposizioneEsterna": {
+                "#text": "true"
+              },
+              "LeggeClasseEnergetica": {
+                "#text": "0"
+              },
+              "ClasseEnergetica": {
+                "#text": "D"
+              },
+              "IPE": {
+                "#text": "118.00"
+              }
+            },
+            "Immagini": {
+              "Immagine": [
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785161",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/1/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:53"
+                  },
+                  "Titolo": {
+                    "#text": "Terrazzo"
+                  },
+                  "Posizione": {
+                    "#text": "1"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785168",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/2/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:35:06"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "2"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785166",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/3/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:57"
+                  },
+                  "Titolo": {
+                    "#text": "Facciata"
+                  },
+                  "Posizione": {
+                    "#text": "3"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785165",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/4/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:56"
+                  },
+                  "Titolo": {
+                    "#text": "Salone"
+                  },
+                  "Posizione": {
+                    "#text": "4"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785164",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/5/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:55"
+                  },
+                  "Titolo": {
+                    "#text": "Cucina"
+                  },
+                  "Posizione": {
+                    "#text": "5"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785163",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/6/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:55"
+                  },
+                  "Titolo": {
+                    "#text": "Corridoio"
+                  },
+                  "Posizione": {
+                    "#text": "6"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785167",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/7/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:58"
+                  },
+                  "Titolo": {
+                    "#text": "Ripostiglio"
+                  },
+                  "Posizione": {
+                    "#text": "7"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785162",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/8/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:54"
+                  },
+                  "Titolo": {
+                    "#text": "Camera da letto"
+                  },
+                  "Posizione": {
+                    "#text": "8"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785159",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/9/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:51"
+                  },
+                  "Titolo": {
+                    "#text": "Bagno"
+                  },
+                  "Posizione": {
+                    "#text": "9"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785160",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/10/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:52"
+                  },
+                  "Titolo": {
+                    "#text": "Box auto"
+                  },
+                  "Posizione": {
+                    "#text": "10"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785158",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/11/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:33:50"
+                  },
+                  "Titolo": {
+                    "#text": "Facciata"
+                  },
+                  "Posizione": {
+                    "#text": "11"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785169",
+                    "Tipo": "F"
+                  },
+                  "URL": {
+                    "#text": "https://res.getrix.it/media/ad/135126017/12/m.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:35:13"
+                  },
+                  "Titolo": {
+                    "#text": "Altro"
+                  },
+                  "Posizione": {
+                    "#text": "12"
+                  }
+                },
+                {
+                  "@attributes": {
+                    "IDImmagine": "559785157",
+                    "Tipo": "P"
+                  },
+                  "URL": {
+                    "#text": "http://mediaserver.getrix.it/plan/138917327/print.jpg"
+                  },
+                  "DataModifica": {
+                    "#text": "2026-11-27T10:34:38"
+                  },
+                  "Titolo": {},
+                  "Posizione": {
+                    "#text": "13"
                   }
                 }
               ]
